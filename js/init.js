@@ -1,6 +1,6 @@
 (function($){
   $(function(){
-
+    $("#hidden").fadeIn("slow")
     $('.button-collapse').sideNav();
     $('.parallax').parallax();
 
