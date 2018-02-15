@@ -2786,7 +2786,14 @@ video.responsive-video {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
 }
-
+#img2{
+  min-width: 100%;
+  overflow: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
 .pin-top, .pin-bottom {
   position: relative;
 }
