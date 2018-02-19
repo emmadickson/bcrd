@@ -10,7 +10,14 @@ nav ul a,
 nav .brand-logo {
   color: #444;
 }
-
+a:visited{
+text-decoration: none;
+color: #444;
+}
+a:link{
+text-decoration: none;
+color: #444;
+}
 p {
   line-height: 2rem;
 }
