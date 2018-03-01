@@ -9385,6 +9385,10 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   stroke-linecap: round;
   /*shape-rendering: crispEdges;*/
 }
+@font-face {
+ font-family: Chicago;
+ src: url('../fonts/Chicago.ttf')
+}
 
 .overlay-desc {
   background: rgba(0,0,0,0);
@@ -9394,4 +9398,12 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: 'Chicago', sans-serif;
+  font-size: 9vw;
+  text-align: center;
+}
+video {
+  height: auto;
+  vertical-align: middle;
+  width: 100%;
 }
