@@ -9399,11 +9399,13 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   align-items: center;
   justify-content: center;
   font-family: 'Chicago', sans-serif;
-  font-size: 9vw;
   text-align: center;
 }
 video {
   height: auto;
   vertical-align: middle;
   width: 100%;
+}
+#overlay{
+  font-size: medium;
 }
