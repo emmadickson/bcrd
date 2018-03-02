@@ -62,8 +62,26 @@ footer.page-footer {
   margin: 0;
 }
 #icon{
-  color: #455a64;
+  color: white;
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
   font-size: 30px;
+}
+@font-face {
+ font-family: Chicago;
+ src: url('../fonts/Chicago.ttf')
+}
+
+video {
+  height: auto;
+  vertical-align: middle;
+  width: 100%;
+}
+#overlay {
+  font-family: Chicago;
+  position: absolute;
+  color: #FFF;
+  text-align: center;
+  width: 100%;
+  padding: 10px 0;
 }
