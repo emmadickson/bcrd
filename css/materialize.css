@@ -9390,22 +9390,26 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
  src: url('../fonts/Chicago.ttf')
 }
 
-.overlay-desc {
-  background: rgba(0,0,0,0);
-  color: white;
-  position: absolute;
-  top: 0; right: 0; bottom: 0; left: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Chicago', sans-serif;
-  text-align: center;
-}
 video {
   height: auto;
   vertical-align: middle;
   width: 100%;
 }
-#overlay{
-  font-size: medium;
+#overlay1 {
+  position: absolute;
+  top: 100px;
+  color: #FFF;
+  text-align: center;
+  font-size: 100px;
+  width: 100%;
+  padding: 10px 0;
+}
+#overlay {
+  position: absolute;
+  top: 250px;
+  color: #FFF;
+  text-align: center;
+  font-size: 50px;
+  width: 100%;
+  padding: 10px 0;
 }
