@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>BCRD</title>
+  <title>BCRD Wants You!</title>
   <link rel="shortcut icon" href="images/logo.jpeg" type="image/x-icon">
   <link rel="icon" href="images/logo.jpeg" type="image/x-icon">
   <!-- CSS  -->
@@ -13,72 +13,82 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
+  <!-- Top Nav Bar -->
+  <div class="navbar-fixed">
+    <nav class="navbar teal darken-1" role="navigation">
+      <div class="nav-wrapper container"><a id="logo-container" href="#logo-container" class="brand-logo"><i class="material-icons">save</i></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="skaters.html">Skaters</a></li>
+          <li><a href="#About">About</a></li>
+          <li><a href="#GetInvolved">Get Involved</a></li>
+        </ul>
+        <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+      </div>
+    </nav>
+    </ul>
+  </div>
 
-  <nav class="navbar white lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="#logo-container" class="brand-logo"><i class="material-icons">save</i></a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="skaters.html">Skaters</a></li>
-        <li><a href="#About">About</a></li>
-        <li><a href="#GetInvolved">Get Involved</a></li>
-      </ul>
+  <!-- Mobile Nav Bar-->
+  <ul id="nav-mobile" class="side-nav teal darken-1">
+    <li><a href="#info"><i class="material-icons">save</i></a></li>
+    <li><a href="skaters.html">Skaters</a></li>
+    <li><a href="#About">About</a></li>
+    <li><a href="#GetInvolved">Get Involved</a></li>
+  </ul>
 
-      <ul id="nav-mobile" class="side-nav">
-        <li><a href="#info"><i class="material-icons">save</i></a></li>
-        <li><a href="skaters.html">Skaters</a></li>
-        <li><a href="#About">About</a></li>
-        <li><a href="#GetInvolved">Get Involved</a></li>
-      </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
-    </div>
-  </nav>
-
-  <div class="container">
-    <video class="responsive-video" width=100% autoplay=True loop=True>
-      <source src="images/hero.mp4" type="video/mp4">
+  <!-- Hero Video -->
+  <div class="col s12 m12">
+    <div id="overlay1">BCRD</div>
+    <div id="overlay">We LOVE Derby</div>
+    <video class="responsive-video" width=100% autoplay=True loop=True style="border:0; margin:0">
+      <source src="media/video/hero.mp4" type="video/mp4">
+      <source src="media/video/hero.ogv" type="video/ogv">
+      <source src="media/video/hero.webm" type="video/webm">
     </video>
-</div>
+  </div>
 
+  <!--   Icon Section   -->
   <div class="container">
     <div class="section">
-
-      <!--   Icon Section   -->
       <div class="row">
         <div class="col s12 m4">
           <div class="icon-block">
             <h2 class="center"><a class="center blue-grey-text" href="#Skaters"><i class="material-icons">group</i><a></h2>
             <h5 class="center"><a class="green-text text-accent-3" href="skaters.html">Skaters <a></h5>
-            <p class="light">These are some of the lovely humans you could meet if you skated with us!!</p>
+            <p class="light">These are some of the lovely humans who skate with us! Our skaters come from all over the Triangle.
+              You might see us on campus, around RTP, or at the farmer’s market. We spend our days working at non-profits, in labs, or at coffee
+              shops. Some of us have families, others prefer our fur babies. Some of us have tattoos. A
+              lot of us are queer-identified. But we all have one thing in common: we love roller derby.</p>
           </div>
         </div>
         <div class="col s12 m4">
         <div class="icon-block">
           <h2 class="center"><i class="material-icons"><a class="center blue-grey-text" href="#About">flash_on<a></i></h2>
           <h5 class="center"><a class="green-text text-accent-3" href="#About">About <a></h5>
-          <p class="light">We're the first Durham based Derby team and we want you to skate with us! We're open to all women identified, nonbinary and gender non conforming folx who love speed. Click to see our FAQ's and learn more about when/where we practice.</p>
+          <p class="light">We're the first Durham-based roller derby league and we want you! We're open to all women-identified, nonbinary, and gender non-conforming folx
+            who want to skate fast, hit hard and get down and derby. Click <a href="#About">here</a> to learn more about our league and get involved</p>
         </div>
       </div>
         <div class="col s12 m4">
           <div class="icon-block">
             <h2 class="center"><i class="material-icons"><a class="center blue-grey-text" href="#GetInvolved">settings <a></i></h2>
             <h5 class="center"><a class="green-text text-accent-3" href="#GetInvolved">Get Involved<a></h5>
-
-            <p class="light">Think that this is rad but aren't quite ready to commit to skating? Follow us on social media, donate or buy some of our swag!</p>
+            <p class="light">[Language from Marketing here about upcoming events/recruitment/etc] Think we're rad but not quite ready to commit to skating? Follow us on social media, donate, or buy some of our swag!</p>
           </div>
         </div>
       </div>
-
     </div>
   </div>
 
   <div id="carousel" class="carousel carousel-slider center" data-indicators="true">
-   <a class="carousel-item" href="#two!"><img class="responsive-img" height="600px" src="images/slider1.jpg"></a>
-   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="images/slider2.jpg"></a>
-   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="images/slider3.jpg"></a>
-   <a class="carousel-item" href="#two!"><img class="responsive-img" height="600px" src="images/slider4.jpg"></a>
-   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="images/slider5.jpg"></a>
-   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="images/slider6.jpg"></a>
-   <a class="carousel-item" href="#two!"><img class="responsive-img" height="600px" src="images/slider7.jpg"></a>
-   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="images/slider8.jpg"></a>
+   <a class="carousel-item" href="#two!"><img class="responsive-img" height="600px" src="media/images/slider/slider1.jpg"></a>
+   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="media/images/slider/slider2.jpg"></a>
+   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="media/images/slider/slider3.jpg"></a>
+   <a class="carousel-item" href="#two!"><img class="responsive-img" height="600px" src="media/images/slider/slider4.jpg"></a>
+   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="media/images/slider/slider5.jpg"></a>
+   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="media/images/slider/slider6.jpg"></a>
+   <a class="carousel-item" href="#two!"><img class="responsive-img" height="600px" src="media/images/slider/slider7.jpg"></a>
+   <a class="carousel-item" href="#three!"><img class="responsive-img" height="600px" src="media/images/slider/slider8.jpg"></a>
  </div>
 
   <div class="container">
@@ -87,12 +97,18 @@
         <div class="col s12 center">
           <h3><i class="mdi-content-send "></i></h3>
           <h4 class="green-text text-accent-3" id="About">About Us</h4>
-          <p class="center-align light">We're here! A lot of us are queer, and we want you to skate with us</p>
+          <p class="center-align light">We're here! A lot of us are queer, and we want you to join us. BCRD was
+            founded in 2015 by a couple of skaters who thought that a community as vibrant as Durham deserved its own roller derby league. Since then, we’ve grown from five skaters doing laps
+            in the back of the Ponysaurus warehouse to a group of over thirty skaters who practice,
+            scrimmage, and bout together – and we’re growing all the time!
+            [More language drawn from the mission/vision statement/Policy committee here]</p>
         </div>
         <div class="col s12 center">
           <h3><i class="mdi-content-send brown-text"></i></h3>
-          <h5 class="green-text text-accent-4">Practice Times</h5>
-          <p class="center-align light">We practice two times a week at Wheels Fun Park, email bullcityrollerderby@gmail.com to find out more</p>
+          <h5 class="green-text text-accent-4">Practice</h5>
+          <p class="center-align light">We practice two times a week at Wheels Fun Park. Our practices incorporate skaters at all
+            levels of skating ability; we teach basic skating skills and endurance as well as more
+            advanced scrimmage skills and drills. Email bullcityrollerderby@gmail.com to find out more</p>
         </div>
       </div>
     </div>
@@ -111,15 +127,34 @@
           <h3><i class="mdi-content-send brown-text"></i></h3>
           <p class="left-align light">
           <h5 class="flow-text green-text text-accent-4"> How do I get in touch with y'all?</h5>
-          <p > Shoot us an email at bullcityrollerderby@gmail.com or join our facebook group.</p>
+          <p > Shoot us an email at bullcityrollerderby@gmail.com or like our <a href="https://www.facebook.com/groups/828934163853486/">facebook group.</a> </p>
+          <h5 class="flow-text green-text text-accent-4"> So is there, like, a ball?</h5>
+          <p>There is no ball.</p>
           <h5 class="flow-text green-text text-accent-4"> What if I don't know how to skate?</h5>
-          <p > That's okay! A lot of our current skaters only started skating this year. We are extremely welcoming to new skaters of all skill levels.</p>
-          <h5 class="flow-text green-text text-accent-4"> Do I need equipment to join? </h5>
-          <p > Buying skate gear can be a daunting and expensive venture, so it is completely understandable if you do not want to immediately launch into it. We have an hour of off skates practice every sunday for those who don't have gear.This is also an awesome opportunity to rub shoulders with league skaters and ask questions about gear. We also have several loaner pairs of skates and pads.</p>
-          <h5 class="flow-text green-text text-accent-4"> What equipment should I get? </h5>
-          <p > If you are skating on the track, you must also be wearing knee pads, wrist guards, elbow pads, a mouth guard and a helmet. There are several locations in the area that sell this gear. Derby City Skates in Winston-Salem is a great resource and owned by a fellow skater. They also do online ordering. Play it Again Sports in Cary has a lot of affordable gear and if you mention our name you will be given a discount. You can also order you gear from Bruised Boutique which has great package deals.</p>
-          <h5 class="flow-text green-text text-accent-4"> How else can I help? </h5>
-          <p > A roller derby league is so much more than just its skaters, so any form of help is welcome. We need Refs, None Skating Officials and just general volunteering with fundraising and out reach. Any little bit helps. If you're feeling especially generous, donate to our paypal at  bullcityrollerderby@gmail.com</p>
+          <p > That's okay! A lot of our current skaters only started skating this year. We hold twice-yearly
+            Booty Camps where you can come, try out skating for the first time, and learn some of the
+            basic skills that you need to join our league as Fresh Meat. Our skaters also love to go to
+            Wheels Fun Park on Wednesdays for their Cheap Skate night (only $3!). It’s a great place
+            to meet people in the league and get more confident on your skates. Follow us on
+            Facebook to learn when our next Booty Camp will be held.</p>
+          <h5 class="flow-text green-text text-accent-4"> What do I need to get started?</h5>
+          <p > If you're skating at one of our practices, you must also wearing knee pads, wrist guards, elbow pads, a mouth guard and a helmet in addition to your skates.
+            Roller derby is a full contact sport and, although we try to play safe, injuries can and will happen.</p>
+          <h5 class="flow-text green-text text-accent-4">Do I need my own equipment to join?</h5>
+          <p > Buying skate gear can be a daunting and expensive venture, so it is completely understandable if you do not want to immediately launch into it.
+            While you’ll probably want to get your own gear if you plan to keep skating with us, Wheels has skates available for Fresh
+            Meat who are still getting a feel for the sport and BCRD has sets of pads and helmets
+            available for loan. We’re also happy to talk to you about the best places to get gear locally
+            and how to put together a full set of equipment on the cheap.</p>
+          <h5 class="flow-text green-text text-accent-4">Y’all are so cool but full-contact roller skating just isn’t for me. How else can I help?</h5>
+          <p >You’re our favorite person! A roller derby league is so much more than just its skaters:
+            any form of help is welcome. We need Refs, NSOs (None Skating Officials),
+            announcers, and just general volunteers to helping with fundraising and out reach. If you
+            used to play derby but feel like your bouting days are done, ask us about getting involved
+            with training and coaching. Any little bit helps. If you're feeling especially generous, donate
+            to our paypal at bullcityrollerderby@gmail.com.</p>
+            <h5 class="flow-text green-text text-accent-4">Did you see that one movie "Whip It"?</h5>
+            <p > Yeah, it was pretty cool. We're way cooler</p>
         </div>
       </div>
 
