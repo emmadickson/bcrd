@@ -1,6 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <style>
+  /* entire container, keeps perspective */
+.flip-container {
+	perspective: 1000px;
+}
+	/* flip the pane when hovered */
+	.flip-container:hover .flipper, .flip-container.hover .flipper {
+		transform: rotateY(180deg);
+	}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	backface-visibility: hidden;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+}
+
+/* back, initially hidden pane */
+.back {
+	transform: rotateY(180deg);
+}
+  </style>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>BCRD</title>
@@ -20,29 +59,89 @@
       <div class="row">
         <div class="col s12 center">
           <h3><i class="mdi-content-send brown-text"></i></h3>
-          <h4 class="green-text text-accent-3" id="Skaters">Skater Bios</h4>
-          <p class="center-align light">Don't h8, sk8</p>
+          <h4 class="green-text text-darken-3" id="Skaters">Skater Bios</h4>
+          <p class="center-align green-text text-darken-2">Don't h8, sk8</p>
           <div class="row">
-            <div class="col s4"><img src="images/skaters/StormySquare.jpg" alt="" class="circle responsive-img"><p> Scaristotle and Waffles </p></div>
-           <div class="col s4"><img src="images/scari.jpg" alt="" class="circle responsive-img"><p> Scaristotle and Waffles </p></div>
-           <div class="col s4"><img src="images/scari.jpg" alt="" class="circle responsive-img"><p> Scaristotle and Waffles </p></div>
+            <div class="col s4">
+              <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                <div class="flipper">
+                  <div class="front">
+                    <!-- front content -->
+                    <h5 class="green-text text-darken-3" id="Skaters">Dark ‘n’ Stormy</h5>
+                    <p>Skating since 2016
+                      Cries throughout the entirety of Moana.
+                      Will hurt you for suggesting we “make this party a luau”.
+                    </p>
+                    <img src="media/images/skaters/StormySquare.jpg" alt="" class="circle responsive-img">
+                  </div>
+                  <div class="back">
+                    <!-- back content -->
+                    <h5 class="green-text text-darken-3" id="Skaters">Dark ‘n’ Stormy</h5>
+                    <p>Skating since 2016
+                      Cries throughout the entirety of Moana.
+                      Will hurt you for suggesting we “make this party a luau”.
+                    </p>
+                    <img src="media/images/skaters/scari.jpg" alt="" class="circle responsive-img">
+                  </div>
+                </div>
+              </div>
+            </div>
+           <div class="col s4">
+             <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+               <div class="flipper">
+                 <div class="front">
+                   <!-- front content -->
+                   <h5 class="green-text text-darken-3" id="Skaters">Dark ‘n’ Stormy</h5>
+                   <p>Skating since 2016
+                     Cries throughout the entirety of Moana.
+                     Will hurt you for suggesting we “make this party a luau”.
+                   </p>
+                   <img src="media/images/skaters/StormySquare.jpg" alt="" class="circle responsive-img">
+                 </div>
+                 <div class="back">
+                   <!-- back content -->
+                   <h5 class="green-text text-darken-3" id="Skaters">Dark ‘n’ Stormy</h5>
+                   <p>Skating since 2016
+                     Cries throughout the entirety of Moana.
+                     Will hurt you for suggesting we “make this party a luau”.
+                   </p>
+                   <img src="media/images/skaters/scari.jpg" alt="" class="circle responsive-img">
+                 </div>
+               </div>
+             </div>
+           </div>
+           <div class="col s4">
+             <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+               <div class="flipper">
+                 <div class="front">
+                   <!-- front content -->
+                   <h5 class="green-text text-darken-3" id="Skaters">Dark ‘n’ Stormy</h5>
+                   <p>Skating since 2016
+                     Cries throughout the entirety of Moana.
+                     Will hurt you for suggesting we “make this party a luau”.
+                   </p>
+                   <img src="media/images/skaters/StormySquare.jpg" alt="" class="circle responsive-img">
+                 </div>
+                 <div class="back">
+                   <!-- back content -->
+                   <h5 class="green-text text-darken-3" id="Skaters">Dark ‘n’ Stormy</h5>
+                   <p>Skating since 2016
+                     Cries throughout the entirety of Moana.
+                     Will hurt you for suggesting we “make this party a luau”.
+                   </p>
+                   <img src="media/images/skaters/scari.jpg" alt="" class="circle responsive-img">
+                 </div>
+               </div>
+             </div>
+           </div>
          </div>
-         <div class="row">
-           <div class="col s4"><img src="images/scari.jpg" alt="" class="circle responsive-img"><p> Scaristotle and Waffles </p></div>
-           <div class="col s4"><img src="images/scari.jpg" alt="" class="circle responsive-img"><p> Scaristotle and Waffles </p></div>
-           <div class="col s4"><img src="images/scari.jpg" alt="" class="circle responsive-img"><p> Scaristotle and Waffles </p></div>
-        </div>
+
         </div>
       </div>
 
     </div>
   </div>
-    <div class="footer-copyright">
-      <div class="container">
-      Made by <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
-      </div>
-    </div>
-  </footer>
+
 
 
   <!--  Scripts-->
