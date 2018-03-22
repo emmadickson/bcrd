@@ -13,7 +13,7 @@ $(document).ready(function(){
         //vars
         var tiles = [];
         var tile = new TileItem();
-        var num_tiles = 13;
+        var num_tiles = 14;
         var bios =           [
                                     '<h5>Shanksy</h5><p>I like turtles.</p>',
                                     '<h5>Scaristotle</h5><p>CAW, CAW, CAW! </p>',
@@ -26,6 +26,7 @@ $(document).ready(function(){
                                     '<h5>Belle of the Brawl</h5><p>The original good girl gone bad.</p>',
                                     '<h5>Dark ‘n’ Stormy</h5><p>Cries through out the entirety of Moana. Will hurt you for suggesting we “make this party a luau”.</p>',
                                     "<h5>Problems</h5><p>I've got problems, you've got problems, Bull City Roller Derby's got problems</p>",
+                                    "<h5>Malice in Wonderland</h5><p>Sometimes I'm naked, sometimes I'm not... depends</p>",
                                     "<h5>Sorry Not Sorry</h5><p>You took too long. Now yo candy's gone. Thas what happened. P'KAOW! [magic hands]</p>",
                                     '<h5>Carly Slay Jepsen</h5><p>Did you know that A.L.F. never made it back home and instead was experimented on by the US government? Fucked up, right?</p>',
                                     ]
@@ -42,6 +43,7 @@ $(document).ready(function(){
                                     '<img class="circle responsive-img" src="media/images/skaters/StormySquare.jpg"</img>',
                                     '<img class="circle responsive-img" src="media/images/skaters/scari.jpg"</img>',
                                     '<img class="circle responsive-img" src="media/images/skaters/scari.jpg"</img>',
+                                    '<img class="circle responsive-img" src="media/images/skaters/scari.jpg"</img>',
                                     '<img class="circle responsive-img" src="media/images/skaters/Slay.jpg"</img>',
                                     ];
         var back_pictures = [
@@ -56,6 +58,7 @@ $(document).ready(function(){
                                     '<img class="circle responsive-img" src="media/images/skaters/scari.jpg"</img>',
                                     '<img class="circle responsive-img" src="media/images/skaters/Stormy.jpg"</img>',
                                     '<img class="circle responsive-img" src="media/images/skaters/scari.jpg"</img>',
+                                    '<img class="circle responsive-img" src="media/images/skaters/malice.png"</img>',
                                     '<img class="circle responsive-img" src="media/images/skaters/scari.jpg"</img>',
                                     '<img class="circle responsive-img" src="media/images/skaters/scari.jpg"</img>',
                                     ];
