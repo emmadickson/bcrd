@@ -5,7 +5,7 @@ $(document).ready(function(){
         function TileItem () {
             this.tile_type;
             this.addToScene = function(front_img, back_img, bio) {
-                var tileItem = '<li class="li"><div class="tile" ><div class="tile-front">'+bio+front_img+'</div><div class="tile-back">'+bio+back_img+'</div</div></li>';
+                var tileItem = '<li class="li"><div class="tile" ><div class="left-align tile-front">'+front_img+bio+'</div><div class="left-align tile-back">'+back_img+bio+'</div</div></li>';
                 $('.cols').append(tileItem);
             };
         }
@@ -33,40 +33,40 @@ $(document).ready(function(){
                                     '<h5>Carly Slay Jepsen</h5><p>Did you know that A.L.F. never made it back home and instead was experimented on by the US government? Fucked up, right?</p>',
                                     ]
         var front_pictures = [
-                                    '<img class="circle responsive-img" src="media/images/skaters/shanksy.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/scari.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/me.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/lilly.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/clit.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/gnarles.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/buttz.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/cruz.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/caddy.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/slammi.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/belle.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/Stormy.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/problems.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/malice.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/thundercat.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/slay_real.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/shanksy.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/scari.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/me.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/lilly.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/clit.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/gnarles.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/buttz.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/cruz.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/caddy.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/slammi.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/belle.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/Stormy.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/problems.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/malice.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/thundercat.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/slay_real.jpg"</img>',
                                     ];
         var back_pictures = [
-                                    '<img class="circle responsive-img" src="media/images/skaters/shanksy.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/scari.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/me.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/lilly.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/clit.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/gnarles.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/buttz.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/cruz.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/caddy.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/slammi.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/belle.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/StormySquare.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/problems.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/malice.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/thundercat.jpg"</img>',
-                                    '<img class="circle responsive-img" src="media/images/skaters/slay.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/shanksy.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/scari.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/me.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/lilly.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/clit.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/gnarles.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/buttz.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/cruz.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/caddy.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/slammi.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/belle.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/StormySquare.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/problems.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/malice.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/thundercat.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/slay.jpg"</img>',
                                     ];
 
         //loop to place tiles with a random id
