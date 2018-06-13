@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>BCRD Wants You!</title>
+  <link rel="shortcut icon" href="media/images/eye.png" type="image/x-icon">
+  <link rel="icon" href="media/images/eye.png" type="image/x-icon">
+  <style>
+    body{
+      background-color: white;
+      }
+    .tiles {
+      margin: 45px auto;
+      width: 100%;
+      height: 100%;
+      padding:60px;
+    }
+
+    .li {
+      width: 250px;
+      height: 350px;
+      display: inline-block;
+      position: relative;
+      margin: 60px;
+      -webkit-perspective: 800;
+    }
+
+    .tile {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      -webkit-transform-style: preserve-3d;
+      -webkit-transition: -webkit-transform 0.6s;
+    }
+    .tile {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      -webkit-transform-style: preserve-3d;
+      -webkit-transition: -webkit-transform 0.6s;
+    }
+    .tile .tile-front, .tile .tile-back {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      -webkit-backface-visibility: hidden;
+    }
+    .tile .tile-front {
+      background: white;
+      -webkit-transition: -webkit-transform 0.3s;
+    }
+    .tile .tile-front:hover {
+      background: white;
+      -webkit-transform: scale(1.1);
+    }
+    .tile .tile-back {
+      background-color: white;
+      -webkit-transform: rotateY(180deg);
+    }
+    .tile .tile-back:hover {
+      background: white;
+    }
+    .tile .tile-back img {
+      width: 100%;
+      height: 80%;
+    }
+    .tile .tile-front img {
+      width: 100%;
+      height: 80%;
+    }
+    .tile.flipped {
+      -webkit-transform: rotateY(180deg);
+    }
+  </style>
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Do+Hyeon" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Top Nav Bar -->
+  <div class="navbar-fixed">
+    <nav class="navbar black" role="navigation" style="color:white">
+      <div class="nav-wrapper container"><a id="logo-container" href="index.html"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/eye.png"></img></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a class="white-text" href="about.html">About BCRD</a></li>
+          <li><a class="white-text" href="skaters.html">Skaters</a></li>
+          <li><a class="white-text" href="faq.html">FAQ</a></li>
+          <li><a class="white-text" href="https://bcrd.threadless.com/">Merch</a></li>
+          <li><a class="white-text" href="mailto:bullcityrollerderby@gmail.com">Contact Us</a></li>
+          <li><a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a><li>
+          <li><a href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a><li>
+        </ul>
+        <a href="#" data-activates="nav-mobile" class="button-collapse white-text"><i class="material-icons">menu</i></a>
+      </div>
+    </nav>
+    </ul>
+  </div>
+
+  <!-- Mobile Nav Bar-->
+  <ul id="nav-mobile" class="side-nav black">
+    <li><a href="#info"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/eye.png"></img></a></li>
+    <li><a class="white-text" href="about.html">About BCRD</a></li>
+    <li><a class="white-text" href="skaters.html">Skaters</a></li>
+    <li><a class="white-text" href="faq.html">FAQ</a></li>
+    <li><a class="white-text" href="https://bcrd.threadless.com/">Merch</a></li>
+    <li><a class="white-text" href="mailto:bullcityrollerderby@gmail.com">Contact Us</a></li>
+    <li><a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a><li>
+    <li><a href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a><li>
+  </ul>
+
+  {{ content }}
+
+
+  <footer class="page-footer" style="background: #8C218D">
+    <div class="container">
+      <div class="row">
+        <div class="col s10 m10">
+          <h5 class="white-text">Get down and derby!</h5>
+          <div class="col s10 m2">
+            <a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a>
+            <a href="https://www.facebook.com/groups/828934163853486/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+      Copyright BCRD 2017
+      </div>
+    </div>
+  </footer>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+  <script src="js/tiles.js"></script>
+  </body>
+</html>
