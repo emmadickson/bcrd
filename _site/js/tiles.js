@@ -13,15 +13,16 @@ $(document).ready(function(){
         //vars
         var tiles = [];
         var tile = new TileItem();
-        var num_tiles = 16;
+        var num_tiles = 17;
         var bios =           [
                                     '<h5>Shanksy</h5><p>I like turtles.</p>',
                                     '<h5>Scaristotle</h5><p>CAW, CAW, CAW! </p>',
+                                    '<h5>Salty Beach</h5><p>From each according to their ability. To each according to their need to get hit off the track.</p>',
                                     '<h5>Georgia Oh Queef</h5><p>I slept my way to the middle</p>',
                                     "<h5>Snark Chocolate</h5><p>There's no excuse for milk chocolate</p>",
                                     "<h5>Clit</h5><p>America's favorite pasttime</p>",
                                     '<h5>Gnarl Marx</h5><p>A spectre is haunting Roller Derby </p>',
-                                    "<h5>Buttz Lightyear</h5><p>Your ass is grass, and I'm gonna mow it.</p>",
+                                    "<h5>Buttz Lightyear</h5><p>To Uranus, and beyond!</p>",
                                     "<h5>Celia Cruise</h5><p>I got a date comin' up, and I might get to mouth base.</p>",
                                     '<h5>Caddy</h5><p>[F]ull of sound and fury,/Signifying nothing.</p>',
                                     '<h5>Slammi Zayn</h5><p>Derby 27:5 says "I just fell on my ass."</p>',
@@ -35,6 +36,7 @@ $(document).ready(function(){
         var front_pictures = [
                                     '<img class="responsive-img" src="media/images/skaters/shanksy.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/scari.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/salty.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/me2.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/lilly.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/clint.jpg"</img>',
@@ -53,6 +55,7 @@ $(document).ready(function(){
         var back_pictures = [
                                     '<img class="responsive-img" src="media/images/skaters/shanksy.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/scari.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/salty.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/me.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/lilly.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/clint2.jpg"</img>',
