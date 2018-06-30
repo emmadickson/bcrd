@@ -18,8 +18,8 @@
     }
 
     .li {
-      width: 250px;
-      height: 400px;
+      width: 175px;
+      height: 250px;
       display: inline-block;
       position: relative;
       margin: 60px;
@@ -27,6 +27,7 @@
     }
 
     .tile {
+      line-height: 15%;
       width: 100%;
       height: 100%;
       position: absolute;
@@ -50,10 +51,7 @@
       background: white;
       -webkit-transition: -webkit-transform 0.3s;
     }
-    .tile .tile-front:hover {
-      background: white;
-      -webkit-transform: scale(1.1);
-    }
+
     .tile .tile-back {
       background-color: white;
       -webkit-transform: rotateY(180deg);
@@ -78,14 +76,14 @@
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link href="https://fonts.googleapis.com/css?family=Do+Hyeon" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Passion+One" rel="stylesheet">
 </head>
 <body>
 
   <!-- Top Nav Bar -->
   <div class="navbar-fixed">
-    <nav class="navbar black" role="navigation" style="color:white">
-      <div class="nav-wrapper container"><a id="logo-container" href="index.html"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/eye.png"></img></a>
+    <nav class="navbar" role="navigation" style="color:white; background: #8C218D">
+      <div class="nav-wrapper container"><a id="logo-container" href="index.html"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/header_eye.png"></img></a>
         <ul class="right hide-on-med-and-down">
           <li><a class="white-text" href="about.html">About BCRD</a></li>
           <li><a class="white-text" href="skaters.html">Skaters</a></li>
@@ -102,8 +100,8 @@
   </div>
 
   <!-- Mobile Nav Bar-->
-  <ul id="nav-mobile" class="side-nav black">
-    <li><a href="#info"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/eye.png"></img></a></li>
+  <ul id="nav-mobile" class="side-nav" style="color:white; background: #8C218D">
+    <li><a href="#info"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/header_eye.png"></img></a></li>
     <li><a class="white-text" href="about.html">About BCRD</a></li>
     <li><a class="white-text" href="skaters.html">Skaters</a></li>
     <li><a class="white-text" href="faq.html">FAQ</a></li>
@@ -117,8 +115,8 @@
 <div class="section">
 <div class="row">
 <div class="col m12 ">
-<h2 style="font-family: 'Do Hyeon', sans-serif; " class="black-text" id="Skaters">Skater Bios</h2>
-<p style="color:#636363" class="flow-text">These are some of the lovely humans who skate with us! Our skaters come from all over the Triangle.
+<h2 style="font-family: 'Passion One', sans-serif; " class="black-text" id="Skaters">Skater Bios</h2>
+<p style="color:#636363 font-size: 18px;">These are some of the lovely humans who skate with us! Our skaters come from all over the Triangle.
 You might see us on campus, around RTP, or at the farmer’s market. We spend our days working at non-profits, in labs, or at coffee
 shops. Some of us have families, others prefer our fur babies. Some of us have tattoos. A
 lot of us are queer-identified. But we all have one thing in common: we love roller derby.</p>
@@ -138,12 +136,13 @@ lot of us are queer-identified. But we all have one thing in common: we love rol
     <div class="container">
       <div class="row">
         <div class="col s10 m10">
-          <h5 class="white-text">Get down and derby!</h5>
-          <div class="col s10 m2">
-            <a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a>
-            <a href="https://www.facebook.com/groups/828934163853486/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a>
-        </div>
+          <h5 class="white-text" style="font-family: 'Passion One'">Get down and derby!</h5>
+
       </div>
+      <div class="col s10 m2">
+        <a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a>
+        <a href="https://www.facebook.com/groups/828934163853486/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a>
+    </div>
     </div>
     <div class="footer-copyright">
       <div class="container">

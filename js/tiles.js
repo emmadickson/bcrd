@@ -88,10 +88,8 @@ $(document).ready(function(){
           var picked = $(this);
 
           flipped = picked.find('.tile').hasClass('flipped')
-          console.log(picked.find('.tile'))
 
           if (flipped) {
-            console.log('reset');
             picked.find('.tile').removeClass('flipped');
           }
           else{
