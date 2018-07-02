@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Hero photo -->
-<video src="media/banner.ogg" controls> </video>
+<video src="media/banner.mpr" controls autoplay> </video>
 
 <div style="margin:0; min-height:300px;" class="row">
 <div class="col m6 left-align" style="margin:0; padding:0; border:0; min-height:300px; max-height:400px"><img style="max-width:200%; max-height:400px;;" src="media/images/map_light.png"></div>
