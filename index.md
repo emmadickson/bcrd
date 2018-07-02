@@ -3,8 +3,7 @@ layout: default
 ---
 
 <!-- Hero photo -->
-<iframe src="https://player.vimeo.com/video/274908547" width="640" height="236" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/274908547">BCRD website banner</a> from <a href="https://vimeo.com/kaylintsukayama">Kaylin Tsukayama</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class='embed-container'><iframe  src="https://player.vimeo.com/video/274908547" frameborder='0' allowfullscreen></iframe></div>
 
 <div style="margin:0; min-height:300px;" class="row">
 <div class="col m6 left-align" style="margin:0; padding:0; border:0; min-height:300px; max-height:400px"><img style="max-width:200%; max-height:400px;;" src="media/images/map_light.png"></div>
