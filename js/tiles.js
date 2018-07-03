@@ -20,7 +20,7 @@ $(document).ready(function(){
                                     '<h5>Salty Beach</h5><p>From each according to their ability. To each according to their need to get hit off the track.</p>',
                                     '<h5>Georgia Oh Queef</h5><p>I slept my way to the middle</p>',
                                     "<h5>Snark Chocolate</h5><p>There's no excuse for milk chocolate</p>",
-                                    "<h5>Clit</h5><p>America's favorite pasttime</p>",
+                                    "<h5>Clint</h5><p>The n is silent</p>",
                                     '<h5>Gnarl Marx</h5><p>A spectre is haunting Roller Derby </p>',
                                     "<h5>Buttz Lightyear</h5><p>To Uranus, and beyond!</p>",
                                     "<h5>Celia Cruise</h5><p>I got a date comin' up, and I might get to mouth base.</p>",
