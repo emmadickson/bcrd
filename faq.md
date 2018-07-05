@@ -18,7 +18,7 @@ layout: default
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text" > What if I don't know how to skate?</h5>
 <p style="color:#636363"> That's okay! A lot of our current skaters only started skating this year. We hold twice-yearly
 Booty Camps where you can come, try out skating for the first time, and learn some of the
-basic skills that you need to join our league as Fresh Meat. Our skaters also love to go to
+basic skills that you need to join our league as a Skater Tot. Our skaters also love to go to
 Wheels Fun Park on Wednesdays for their Cheap Skate night (only $3!). It’s a great place
 to meet people in the league and get more confident on your skates. Follow us on
 Facebook to learn when our next Booty Camp will be held.</p>
