@@ -17,6 +17,8 @@ layout: default
         levels of skating ability; we teach basic skating skills and endurance as well as more
         advanced scrimmage skills and drills. Email bullcityrollerderby@gmail.com to find out more</p>
     </div>
+    <div class='embed-container video-container'><iframe src="https://player.vimeo.com/video/275679260" frameborder="0" autoplay="1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
   </div>
 </div>
 </div>
