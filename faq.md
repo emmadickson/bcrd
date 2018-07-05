@@ -29,8 +29,7 @@ Roller derby is a full contact sport and, although we try to play safe, injuries
 
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text" >Do I need my own equipment to join?</h5>
 <p style="color:#636363"> Buying skate gear can be a daunting and expensive venture, so it is completely understandable if you do not want to immediately launch into it.
-While you’ll probably want to get your own gear if you plan to keep skating with us, Wheels has skates available for Fresh
-Meat who are still getting a feel for the sport and BCRD has sets of pads and helmets
+While you’ll probably want to get your own gear if you plan to keep skating with us, Wheels has skates available for Skater Tots who are still getting a feel for the sport and BCRD has sets of pads and helmets
 available for loan. We’re also happy to talk to you about the best places to get gear locally
 and how to put together a full set of equipment on the cheap.</p>
 
