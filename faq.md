@@ -42,7 +42,7 @@ with training and coaching. Any little bit helps. If you're feeling especially g
 to our paypal at bullcityrollerderby@gmail.com.</p>
 
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text" >Did you see that one movie "Whip It"?</h5>
-<p style="color:#636363"> Yeah, it was pretty cool. We're way cooler</p>
+<p style="color:#636363"> Yeah, it was pretty cool. We're way cooler.</p>
 </div>
 </div>
 </div>
