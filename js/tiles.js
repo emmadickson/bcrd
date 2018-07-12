@@ -1,4 +1,4 @@
-buttz1.JPG$(document).ready(function(){
+$(document).ready(function(){
 
     function memory(){
         //tile Constructor function
