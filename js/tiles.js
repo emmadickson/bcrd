@@ -21,7 +21,7 @@ $(document).ready(function(){
                                     '<h5>Georgia Oh Queef</h5><p>I slept my way to the middle</p>',
                                     "<h5>Snark Chocolate</h5><p>There's no excuse for milk chocolate</p>",
                                     "<h5>Clint</h5><p>The n is silent</p>",
-                                    '<h5>Hellvetica Bold</h5><p></p>',
+                                    '<h5>Hellvetica Bold</h5><p>wow derby gave me so many father figures</p>',
                                     '<h5>Duchess von Blocker</h5><p></p>',
                                     '<h5>JammaWockee</h5><p>Why push through life when you can dance through it? </p>',
                                     '<h5>M.C Jamma</h5><p>My pants are finer than your pants</p>',
