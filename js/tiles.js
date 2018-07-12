@@ -43,7 +43,7 @@ $(document).ready(function(){
 
                                     ]
         var front_pictures = [
-                                    '<img class="responsive-img" src="media/images/skaters/shanksy1.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/shanksy1.JPG"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/scari.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/salty1.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/queef1.jpg"</img>',
@@ -69,7 +69,7 @@ $(document).ready(function(){
                                     '<img class="responsive-img" src="media/images/skaters/slay1.jpg"</img>',
                                     ];
         var back_pictures = [
-                                    '<img class="responsive-img" src="media/images/skaters/shanksy2.jpg"</img>',
+                                    '<img class="responsive-img" src="media/images/skaters/shanksy2.JPG"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/scari.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/salty2.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/queef2.jpg"</img>',
