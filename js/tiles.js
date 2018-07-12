@@ -43,8 +43,8 @@ $(document).ready(function(){
 
                                     ]
         var front_pictures = [
-                                    '<img class="responsive-img" src="media/images/skaters/shanksy1.jpg"</img>',
-                                    '<img class="responsive-img" src="media/images/skaters/scari.jpg"</img>',
+                                    '<img class="responsive-img" src=../"media/images/skaters/shanksy1.jpg"</img>',
+                                    '<img class="responsive-img" src="../media/images/skaters/scari.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/salty1.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/queef1.jpg"</img>',
                                     '<img class="responsive-img" src="media/images/skaters/lilly.jpg"</img>',
