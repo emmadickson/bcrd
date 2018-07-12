@@ -26,7 +26,7 @@ $(document).ready(function(){
                                     '<h5>JammaWockee</h5><p>Why push through life when you can dance through it? </p>',
                                     '<h5>M.C Jamma</h5><p>My pants are finer than your pants</p>',
                                     '<h5>Riot</h5><p></p>',
-                                    '<h5>Yinz Blader Ginsburg</h5><p></p>',
+                                    '<h5>Ruth Blader Yinzburg</h5><p></p>',
                                     '<h5>Shruggernaut</h5><p></p>',
                                     '<h5>Gnarl Marx</h5><p>A spectre is haunting Roller Derby </p>',
                                     "<h5>Buttz Lightyear</h5><p>To Uranus, and beyond!</p>",
