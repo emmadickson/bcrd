@@ -3,8 +3,6 @@ layout: default
 ---
 
 <!-- Hero photo -->
-<div style="width:100%; background-color:#FAD700; text-align:center"><div style="padding:10px; font-family: 'Passion One', sans-serif; font-size: 20px">BCRD'S FIRST BOUT!!! July 14th Against Mother State, more info <a href="https://www.facebook.com/events/503650070066594/"> here </a> </div></div>
-
 <div class='embed-container video-container'>
 <iframe src="https://player.vimeo.com/video/274908547?background=1&autoplay=1&loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
