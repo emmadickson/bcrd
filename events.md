@@ -13,7 +13,7 @@ layout: default
           <div class="divider"></div>
           <br>
           <h5>September 29th</h5>
-          <p> At 12:30pm BCRD will be skating in Durham's Pride Parade!</p>
+          <p> At 12:30pm BCRD will be skating in Durham's Pride Parade! See more info <a style='color:blue' href='https://www.facebook.com/events/246959469300896/?action_history=%22[%7B%5C%22surface%5C%22%3A%5C%22messaging%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22attachment%5C%22%2C%5C%22extra_data%5C%22%3A%7B%7D%7D]%22'> here </a></p>
         </div>
         <div class="divider"></div>
         <div class="section">
@@ -24,7 +24,7 @@ layout: default
           <p>Bout with Classic City in Georgia</p>
           <div class="divider"></div>
           <h5>October 13th</h5>
-          <p>BOOTY CAMP. Come join BCRD for an introduction to Roller Derby!</p>
+          <p>BOOTY CAMP. Come join BCRD for an introduction to Roller Derby! Learn more info <a style='color:blue' href='https://www.facebook.com/events/2163091147304979/?action_history=%22[%7B%5C%22surface%5C%22%3A%5C%22messaging%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22attachment%5C%22%2C%5C%22extra_data%5C%22%3A%7B%7D%7D]%22'> here </a></p>
         </div>
         <div class="divider"></div>
         <div class="section">
