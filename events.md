@@ -13,7 +13,7 @@ layout: default
           <div class="divider"></div>
           <br>
           <h5>September 29th</h5>
-          <p> At 11 am BCRD will be skating in Durham's Pride Parade!</p>
+          <p> At 12:30pm BCRD will be skating in Durham's Pride Parade!</p>
         </div>
         <div class="divider"></div>
         <div class="section">
