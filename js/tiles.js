@@ -34,7 +34,7 @@ $(document).ready(function(){
                                     "<h5>Buttz Lightyear</h5><p>To Uranus, and beyond!</p>",
                                     "<h5>Celia Cruise</h5><p>I got a date comin' up, and I might get to mouth base.</p>",
                                     '<h5>Slammi Zayn</h5><p>Derby 27:5 says "I just fell on my ass."</p>',
-                                    '<h5>Belle of the Brawl</h5><p>The original good girl gone bad.</p>',
+                                    '<h5>Belle of the Brawl</h5><p>Better than yesterday.</p>',
                                     "<h5>Problems</h5><p>I've got problems, you've got problems, Bull City Roller Derby's got problems</p>",
                                     "<h5>Malice in Wonderland</h5><p>Sometimes I'm naked, sometimes I'm not... depends</p>",
                                   "<h5>Thundercat Ho!</h5><p>You took too long. Now yo candy's gone. Thas what happened. P'KAOW! [magic hands]</p>",
