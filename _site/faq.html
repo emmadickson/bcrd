@@ -10,6 +10,9 @@
     body{
       background-color: white;
       }
+    .container{
+        width:100% !important;
+      }
     .tiles {
       margin: 15px auto;
       width: 100%;
@@ -67,6 +70,7 @@
     .tile.flipped {
       -webkit-transform: rotateY(180deg);
     }
+
   </style>
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -76,6 +80,14 @@
   <link href="https://fonts.googleapis.com/css?family=Passion+One" rel="stylesheet">
 </head>
 <body>
+<!-- Dropdown Structure -->
+<ul id="dropdown1" class="dropdown-content">
+  <li><a href="#!">Sponsors</a></li>
+  <li class="divider"></li>
+  <li><a href="#!">Sponsorship</a></li>
+  <li class="divider"></li>
+  <li><a href="#!">Volunteer</a></li>
+</ul>
 
   <!-- Top Nav Bar -->
   <div class="navbar-fixed">
@@ -87,6 +99,8 @@
           <li><a class="white-text" href="faq.html">FAQ</a></li>
           <li><a class="white-text" href="https://bcrd.threadless.com/">Merch</a></li>
           <li><a class="white-text" href="events.html">Events</a></li>
+          <li><a class="dropdown-button white-text" href="#!" data-activates="dropdown1">Support<i class="material-icons right">arrow_drop_down</i></a></li>
+          <!-- Dropdown Trigger -->
           <li><a class="white-text" href="mailto:bullcityrollerderby@gmail.com">Contact Us</a></li>
           <li><a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a><li>
           <li><a href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a><li>
@@ -105,6 +119,7 @@
     <li><a class="white-text" href="faq.html">FAQ</a></li>
     <li><a class="white-text" href="https://bcrd.threadless.com/">Merch</a></li>
     <li><a class="white-text" href="events.html">Events</a></li>
+    <li><a class="white-text" href="support.html">Support</a></li>
     <li><a class="white-text" href="mailto:bullcityrollerderby@gmail.com">Contact Us</a></li>
     <li><a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a><li>
     <li><a href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a><li>
@@ -163,7 +178,7 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
       <div class="row">
         <div class="col s10 m10">
           <h5 class="white-text" style="font-family: 'Passion One'">SKATE FAST EAT TRASH!</h5>
-          <h7 class="white-text">Fouding sponsor <a style='color:white' href='http://honeygirlmeadery.com'>Honeygirl Meadery</a></h5>
+          <h7 class="white-text">Founding sponsor <a style='color:white' href='http://honeygirlmeadery.com'>Honeygirl Meadery</a></h5>
 
         </div>
         <div class="col s10 m2">
@@ -185,5 +200,11 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
   <script src="js/tiles.js"></script>
+  <script>
+  $( document ).ready(function() {
+    console.log( "ready!" );
+    $(".dropdown-button").dropdown({ hover: false });
+});
+  </script>
   </body>
 </html>
