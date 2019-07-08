@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="row" style="background: rgb(225,185,24) ">
-    <h5 class="col s12 center bold"><a href="https://www.facebook.com/events/352006475421923/">BCRDS first ever home bout is July 28th!!</a></h5>
+    <h5 class="col s12 center text-bold"><a href="https://www.facebook.com/events/352006475421923/">BCRDS first ever home bout is July 28th!!</a></h5>
 </div>
 
 <!-- Hero photo -->
