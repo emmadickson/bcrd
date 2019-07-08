@@ -24,6 +24,7 @@ layout: default
 
           <h5 style="font-family: 'Passion One', sans-serif; color:#8C218D">General Sponsors</h5>
           <li><a style="color:blue" href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a></li>
+          <li><a style="color:blue" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></li>
 
 
           <p id="sponsorship" >For information about how to become a BCRD sponsor, read the information below and email bullcityrollerderby@gmail.com.</p>

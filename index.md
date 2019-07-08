@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<div class="row" style="height:50px">
+    <h2 class="col s12"><a href="https://www.facebook.com/events/352006475421923/">BCRDS first ever home bout is July 28th!!</a></h2>
+</div>
+
 <!-- Hero photo -->
 <div class='embed-container video-container'>
 <iframe src="https://player.vimeo.com/video/274908547?background=1&autoplay=1&loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
