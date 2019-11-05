@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <!-- Hero photo -->
 <div class='embed-container video-container'>
 <iframe src="https://player.vimeo.com/video/274908547?background=1&autoplay=1&loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
