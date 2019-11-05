@@ -55,6 +55,8 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text">How do I pay dues?</h5>
 <p style="color:#636363">Paypall bullcityrollerderby@gmail.com $15</p>
 
+<h5 style="font-family: 'Passion One', sans-serif; " class="black-text">Where's the Calendar?</h5>
+<a style="color:#636363" href="https://calendar.google.com/calendar/r/month/2019/11/1?tab=oc&pli=1"> Here </a>
 </div>
 </div>
 </div>
