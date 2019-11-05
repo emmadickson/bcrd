@@ -49,14 +49,15 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 <h3 style="font-family: 'Passion One', sans-serif; " class="black-text">I'm Already a Skater and I Have Logistical Questions!</h3>
 
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text">How do I fill out a membership form?</h5>
-<p style="color:#636363"> Go here!</p>
+<p style="color:#636363">Here</p>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLe5W7mxREX3ahryu-hwwWW5UMvJGIZAdplt_BpVaqNLhfAA/viewform?embedded=true" width="640" height="2317" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text">How do I pay dues?</h5>
 <p style="color:#636363">Paypall bullcityrollerderby@gmail.com $15</p>
 
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text">Where's the Calendar?</h5>
-<a style="color:#636363" href="https://calendar.google.com/calendar/r/month/2019/11/1?tab=oc&pli=1"> Here </a>
+<p style="color:#636363">Here</p>
+<iframe src="https://calendar.google.com/calendar/embed?src=bullcityrollerderby%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 </div>
 </div>
