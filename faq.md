@@ -44,6 +44,7 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text" >Did you see that one movie "Whip It"?</h5>
 <p style="color:#636363"> Yeah, it was pretty cool. We're way cooler.</p>
 
+
 <br>
 <h3 style="font-family: 'Passion One', sans-serif; " class="black-text">I'm Already a Skater and I Have Logistical Questions!</h3>
 
