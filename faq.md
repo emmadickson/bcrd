@@ -43,6 +43,17 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text" >Did you see that one movie "Whip It"?</h5>
 <p style="color:#636363"> Yeah, it was pretty cool. We're way cooler.</p>
+
+<br>
+<h3 style="font-family: 'Passion One', sans-serif; " class="black-text">I'm Already a Skater and I Have Logistical Questions!</h3>
+
+<h5 style="font-family: 'Passion One', sans-serif; " class="black-text">How do I fill out a membership form?</h5>
+<p style="color:#636363"> Go here!</p>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLe5W7mxREX3ahryu-hwwWW5UMvJGIZAdplt_BpVaqNLhfAA/viewform?embedded=true" width="640" height="2317" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<h5 style="font-family: 'Passion One', sans-serif; " class="black-text">How do I pay dues?</h5>
+<p style="color:#636363">Paypall bullcityrollerderby@gmail.com $15</p>
+
 </div>
 </div>
 </div>
