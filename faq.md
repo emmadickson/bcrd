@@ -55,7 +55,6 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text">How do I get the Bullhorn?</h5>
 <p> Here! </p>
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/4b1b3ff5bf4c6154766e429f7/1347ba150114451dae4c2d19b.js");</script>
 
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text">Where's the Calendar?</h5>
 <p style="color:#636363">Here</p>
