@@ -5,7 +5,9 @@ layout: default
 <div class="container">
 <div class="section">
 <div class="row">
-<div class="col s12 left-align"><h2 style="font-family: 'Passion One', sans-serif; " class="black-text"> FAQ </h2></div>
+<div class="col s12 left-align"><h1 style="font-family: 'Passion One', sans-serif; " class="black-text"> FAQ </h1></div>
+
+<div class="col s12 left-align"><h2 style="font-family: 'Passion One', sans-serif; " class="black-text"> New Skaters </h2></div>
 
 <div class="col s12 left ">
 
@@ -45,7 +47,7 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 <p style="color:#636363"> Yeah, it was pretty cool. We're way cooler.</p>
 
 <br>
-<h3 style="font-family: 'Passion One', sans-serif; " class="black-text">I'm Already a Skater and I Have Logistical Questions!</h3>
+<h2 style="font-family: 'Passion One', sans-serif; " class="black-text">I'm Already a Skater and I Have Logistical Questions!</h2>
 
 <h5 style="font-family: 'Passion One', sans-serif; " class="black-text">How do I fill out a membership form?</h5>
 <p style="color:#636363">Here</p>
