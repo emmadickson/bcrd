@@ -8,7 +8,14 @@ layout: default
 
 
 <div style="margin:0; min-height:300px;" class="row">
-<div class="col m6 left-align" ><img class="responsive-img" src="media/images/pride.jpg"></div>
+<div class="col m6 left-align" >
+<div class="carousel">
+   <a class="carousel-item" href="#one!"><img src="media/images/pride.jpg"></a>
+   <a class="carousel-item" href="#two!"><img src="https://lorempixel.com/250/250/nature/2"></a>
+   <a class="carousel-item" href="#three!"><img src="https://lorempixel.com/250/250/nature/3"></a>
+   <a class="carousel-item" href="#four!"><img src="https://lorempixel.com/250/250/nature/4"></a>
+   <a class="carousel-item" href="#five!"><img src="https://lorempixel.com/250/250/nature/5"></a>
+ </div>
 
 
 <div class="col m6 right-align">
