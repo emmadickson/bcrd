@@ -15,14 +15,14 @@ layout: default
           <div class="divider"></div>
           <br />
           <p>As a fully volunteer league, we are extremely grateful to the sponsors who make our training, travel, home bouts (July 2019!), and community involvement possible. Thanks to each of our sponsors for their support of inclusive athletic leadership in Durham.</p>
-          <h5 style="font-family: 'Passion One', sans-serif; color:#8C218D">Founding Sponsor</h5>
+          <h5 style="font-family: 'Passion One', sans-serif; color:black">Founding Sponsor</h5>
 
 
           <img style="width:100px; height:100px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg">
           <li><a style="color:blue" href="https://www.facebook.com/HoneygirlMeadery/">Honeygirl Meadery</a></li>
 
 
-          <h5 style="font-family: 'Passion One', sans-serif; color:#8C218D">General Sponsors</h5>
+          <h5 style="font-family: 'Passion One', sans-serif; color:black">General Sponsors</h5>
           <li><a style="color:blue" href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a></li>
           <li><a style="color:blue" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></li>
 
@@ -42,7 +42,7 @@ layout: default
           <p>BCRD will host it's FIRST EVER Durham home bout in July 2019!
           Support this league accomplishment with an advertisement in the bout booklet, or contribute items to the bout day raffle. Raffle proceeds will be split between BCRD and a charitable partner. For information about bout day advertisements and raffle contributions, email bullcityrollerderby@gmail.com.</p>
 
-          <h5 style="font-family: 'Passion One', sans-serif; color:#8C218D">What will your sponsorship of Bull City Roller Derby fund?</h5>
+          <h5 style="font-family: 'Passion One', sans-serif; color:black">What will your sponsorship of Bull City Roller Derby fund?</h5>
             <li>Your gift will support inclusive athletic leadership in Durham.</li>
             <li>Your gift will enable us to welcome new skaters with bi-annual “booty camp” recruitment events and available gear.</li>
             <li>Your gift will help make uniforms accessible to all of our current and future teammates.</li>
@@ -51,7 +51,7 @@ layout: default
             <li>Your gift will provide us the opportunity to expand our youth engagement efforts throughout the community, with a focus on athletic leadership.</li>
             <li>Your gift will help us start saving towards long-term league goals, including establishing a dedicated space for practice, scrimmages, and home bouts.</li>
 
-            <p id="volunteer" style="font-family: 'Passion One', sans-serif; color:#8C218D">In recognition of unique financial barriers that may impact women, POC, and/or LGBTQ+ business owners, BCRD is committed to discussing flexible sponsorship package rates that allow everyone to support the athletic community we are building.</p>
+            <p id="volunteer" style="font-family: 'Passion One', sans-serif; color:black">In recognition of unique financial barriers that may impact women, POC, and/or LGBTQ+ business owners, BCRD is committed to discussing flexible sponsorship package rates that allow everyone to support the athletic community we are building.</p>
 
 
           <div class="divider"></div>
