@@ -18,7 +18,7 @@ layout: default
 
 
 <div class="col m6 right-align"  style="padding: 50px">
-<h4 style="font-family: 'Passion One', sans-serif; text-align: left;  class="black-text">Durham's Own League</h4>
+<h4 style="font-family: 'Passion One', sans-serif; text-align: left;" class="black-text">Durham's Own League</h4>
 <h6 style="color:black; font-size:18px; line-height: 150%;  text-align: left; ">We're here! A lot of us are queer, and we want you to join us. BCRD was
 founded in 2015 by a couple of skaters who thought that a community as vibrant as Durham deserved its own roller derby league. Since then, we’ve grown from five skaters doing laps
 in the back of the Ponysaurus warehouse to a group of over thirty skaters who practice,
