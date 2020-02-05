@@ -9,7 +9,7 @@ layout: default
 
 <div style="margin:0; min-height:300px;" class="row">
 <div class="col m6 left-align" style="padding: 50px">
-  <img class="responsive-img"" src="media/images/map_light.png">
+  <img class="responsive-img" src="media/images/map_light.png">
 </div>
 
 
