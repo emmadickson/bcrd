@@ -7,12 +7,8 @@ layout: default
 <iframe src="https://player.vimeo.com/video/274908547?background=1&autoplay=1&loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
-<div class="col m6 left-align">
-<img class="responsive-img" src="images/pride.jpg">
-</div>
-
-
-
+<div style="margin:0; min-height:300px;" class="row">
+<div class="col m6 left-align" ><img class="responsive-img" src="media/images/pride.jpg"></div>
 
 
 <div class="col m6 right-align">
