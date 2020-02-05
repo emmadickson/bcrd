@@ -169,16 +169,22 @@
     $(".dropdown-button").dropdown({ hover: false });
 });
 
-  document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.carousel');
-    var instances = M.Carousel.init(elems, options);
-  });
 
-  // Or with jQuery
-
-  $(document).ready(function(){
-    $('.carousel').carousel();
-  });
+4
+5
+6
+7
+8
+9
+<script>
+ 
+$(document).ready(function(){
+ 
+ $('#demo-carousel').carousel({fullWidth: true});
+ 
+});
+ 
+</script>
   </script>
   
   </body>
