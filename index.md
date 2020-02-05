@@ -17,4 +17,3 @@ in the back of the Ponysaurus warehouse to a group of over thirty skaters who pr
 scrimmage, and bout together – and we’re growing all the time!
 </h6>
 </div>
-</div>
