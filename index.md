@@ -4,7 +4,7 @@ layout: default
 
 <!-- Hero photo -->
 <div class='embed-container video-container'>
-<iframe style="padding-left: 15px; padding-right:15px; padding-bottom: 15px; padding-top: 25px" src="https://player.vimeo.com/video/274908547?background=1&autoplay=1&loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<iframe style="padding-bottom: 15px; padding-top: 25px" src="https://player.vimeo.com/video/274908547?background=1&autoplay=1&loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
 <div class="col m12 center-align"  style="padding: 50px">
