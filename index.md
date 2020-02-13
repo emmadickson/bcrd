@@ -4,7 +4,7 @@ layout: default
 
 <!-- Hero photo -->
 <div class="col m12 center-align">
-<img class="center responsive-img" src="media/images/KITTENwide.jpg">
+<img class="center responsive-img" src="media/images/header.jpg">
 </div>
 <div class="container" style="padding-left:50px; padding-right:50px;">
 
@@ -20,7 +20,7 @@ layout: default
         scrimmage, and bout together – and we’re growing all the time!
         </p>
         </div>
-        
+
         <br>
         <div class="section">
 
@@ -34,7 +34,7 @@ layout: default
         <div class="section">
         <h4 style="font-family: 'Dosis', sans-serif; font-style: bold; text-align: left; " class="gray-text">SPONSORS</h4>
         <br>
-        
+
         <h5 style="font-family: 'Dosis', sans-serif; text-align: center; color:gray">Founding Sponsor</h5>
         <div class="center-align" > <a style="font-family: 'Dosis', sans-serif;" href="https://www.facebook.com/HoneygirlMeadery/"><img style="width:200px; height:200px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg"></a></div>
 
@@ -47,4 +47,3 @@ layout: default
 
   </div>
   </div>
-
