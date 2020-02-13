@@ -6,7 +6,7 @@ layout: default
 <div class="section">
 <div class="row">
 
-<div class="col s12 left-align"><h3 style="font-family: 'PT Sans', sans-serif; color:black"> New Skaters </h3></div>
+<div class="col s12 left-align"><h3 style="font-family: 'PT Sans', sans-serif; color:gray"> New Skaters </h3></div>
 
 <div class="col s12 left ">
 
@@ -46,14 +46,13 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 <p style="color:#636363"> Yeah, it was pretty cool. We're way cooler.</p>
 
 <br>
-<h3 style="font-family: 'PT Sans', sans-serif; color:black">I'm Already a Skater and I Have Logistical Questions!</h3>
+<h3 style="font-family: 'PT Sans', sans-serif; color:gray">I'm Already a Skater and I Have Logistical Questions!</h3>
 
 <h5 style="font-family: 'PT Sans', sans-serif; color:gray">How do I fill out a membership form?</h5>
 <p style="color:#636363"><a href="https://docs.google.com/forms/d/e/1FAIpQLScLe5W7mxREX3ahryu-hwwWW5UMvJGIZAdplt_BpVaqNLhfAA/viewform?usp=pp_url">Here</a></p>
 
 
-<h5 style="font-family: 'PT Sans', sans-serif; color:gray">How do I get the Bullhorn?</h5>
-<p> Here! </p>
+<h5 style="font-family: 'PT Sans', sans-serif; color:gray">Subscribe to the bullhorn!</h5>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
