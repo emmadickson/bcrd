@@ -9,7 +9,7 @@ layout: default
 
     <div class="col m12 left-align" >
           <div class="section">
-          <h4 style="font-family: 'PT Sans', sans-serif; ">Bull City Roller Derby Sponsors</h4>
+          <h4 style="font-family: 'PT Sans', sans-serif; color:gray">Bull City Roller Derby Sponsors</h4>
           <div class="divider"></div>
           <br />
           <p>As a fully volunteer league, we are extremely grateful to the sponsors who make our training, travel, home bouts (July 2019!), and community involvement possible. Thanks to each of our sponsors for their support of inclusive athletic leadership in Durham.</p>
