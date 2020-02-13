@@ -7,11 +7,11 @@ layout: default
 <div class="row">
 
 <div class="col s12 left-align">
-<h4 style="font-family: 'Dosis', sans-serif; color:BLACK"> NEW SKATERS </h4></div>
+<h4 style="font-family: 'Dosis', sans-serif; color:black"> NEW SKATERS </h4></div>
 <div class="col s12 left ">
 
 <h5 style="font-family: 'Dosis', sans-serif; color:gray" > How do I get in touch with y'all?</h5>
-<p style="color:gray; 'Dosis', sans-serif;" > Shoot us an email at bullcityrollerderby@gmail.com or like our <a href="https://www.facebook.com/groups/828934163853486/">facebook group.</a> </p>
+<p style="color:gray; 'Dosis', sans-serif;" > Shoot us an email at bullcityrollerderby@gmail.com or like our <a class="blue-text" href="https://www.facebook.com/groups/828934163853486/">facebook group.</a> </p>
 
 <h5 style="font-family: 'Dosis', sans-serif;; color:gray" > So is there, like, a ball?</h5>
 <p style="color:gray; 'Dosis', sans-serif;">There is no ball.</p>
