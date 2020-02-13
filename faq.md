@@ -5,7 +5,6 @@ layout: default
 <div class="container">
 <div class="section">
 <div class="row">
-<div class="col s12 left-align"><h3 style="font-family: 'PT Sans', sans-serif; color:gray "> FAQ </h3></div>
 
 <div class="col s12 left-align"><h4 style="font-family: 'PT Sans', sans-serif; color:gray"> New Skaters </h4></div>
 
