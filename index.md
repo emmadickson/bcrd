@@ -17,6 +17,7 @@ scrimmage, and bout together – and we’re growing all the time!
 <br>
 
 <h5 style="font-family: 'PT Sans', sans-serif; font-style: bold; text-align: left; opacity: 0.5;" class="black-text">JOIN US!</h5>
-<p style="color:gray; font-size:16px; line-height: 150%;  text-align: left;>BCRD accepts skaters and volunteers who identify as women, nonbinary people and anyone along the gender spectrum who feels comfortable skating under the governance of <a href="https://resources.wftda.org/womens-flat-track-derby-association-statement-about-gender/">WFTDA</a>. Email bullcityrollerderby@gmail.com for more info.</p>
+<p style="color:gray; font-size:16px; line-height: 150%;  text-align: left;">
+BCRD accepts skaters and volunteers who identify as women, nonbinary people and anyone along the gender spectrum who feels comfortable skating under the governance of <a href="https://resources.wftda.org/womens-flat-track-derby-association-statement-about-gender/">WFTDA</a>. Email bullcityrollerderby@gmail.com for more info.</p>
 
 </div>
