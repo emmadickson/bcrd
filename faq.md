@@ -49,8 +49,8 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 <h3 style="font-family: 'PT Sans', sans-serif; color:black">I'm Already a Skater and I Have Logistical Questions!</h3>
 
 <h5 style="font-family: 'PT Sans', sans-serif; color:gray">How do I fill out a membership form?</h5>
-<p style="color:#636363">Here</p>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLe5W7mxREX3ahryu-hwwWW5UMvJGIZAdplt_BpVaqNLhfAA/viewform?embedded=true" width="640" height="2317" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<p style="color:#636363"><a href="https://docs.google.com/forms/d/e/1FAIpQLScLe5W7mxREX3ahryu-hwwWW5UMvJGIZAdplt_BpVaqNLhfAA/viewform?usp=pp_url">Here</a></p>
+
 
 <h5 style="font-family: 'PT Sans', sans-serif; color:gray">How do I get the Bullhorn?</h5>
 <p> Here! </p>
