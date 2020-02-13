@@ -2,10 +2,10 @@
 layout: default
 ---
 
-  <div style="font-family: 'Dosis', sans-serif; class="container gray-text" style="color: gray; padding-left:50px; padding-right:50px;">
 
-<div class="section">
-
+  <div style="font-family: 'Dosis', sans-serif; class="container gray-text" class="container">
+  <div class="section">
+  <div class="row">
 
     <div class="col m12 left-align" >
           <div class="section">
@@ -37,7 +37,7 @@ layout: default
           <br />
           <p class="gray-text">To discuss the right sponsorship package for your organization, email bullcityrollerderby@gmail.com.</p>
           <br />
-        
+
           <h5 class="gray-text" style="color:gray">What will your sponsorship of Bull City Roller Derby fund?</h5>
             <li style="font-family: 'Dosis', sans-serif;">Your gift will support inclusive athletic leadership in Durham.</li>
             <li style="font-family: 'Dosis', sans-serif;" >Your gift will enable us to welcome new skaters with bi-annual “booty camp” recruitment events and available gear.</li>
@@ -61,5 +61,8 @@ layout: default
           <br />
           <p style="font-family: 'Dosis', sans-serif;">Want to be a BCRD volunteer? Email bullcityrollerderby@gmail.com to learn more.</p>
           <br />
-      
+
           <div class="divider"></div>
+          </div>
+          </div>
+          </div>
