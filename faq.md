@@ -8,6 +8,8 @@ layout: default
 
 <div class="col s12 left-align">
 <h4 style="font-family: 'Dosis', sans-serif; color:black"> NEW SKATERS </h4></div>
+<div class="divider"></div>
+
 <div class="col s12 left ">
 
 <h5 style="font-family: 'Dosis', sans-serif; color:gray" > How do I get in touch with y'all?</h5>
@@ -47,9 +49,10 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 
 <br>
 <h4 style="font-family: 'Dosis', sans-serif; color:black">EXISTING SKATERS</h4>
+<div class="divider"></div>
 
 <h5 style="font-family: 'Dosis', sans-serif; color:gray">How do I fill out a membership form?</h5>
-<p style="color:gray; font-family:'Dosis', sans-serif;"><a href="https://docs.google.com/forms/d/e/1FAIpQLScLe5W7mxREX3ahryu-hwwWW5UMvJGIZAdplt_BpVaqNLhfAA/viewform?usp=pp_url">Here</a></p>
+<p style="color:gray; font-family:'Dosis', sans-serif;">Click<a class="blue-text " href="https://docs.google.com/forms/d/e/1FAIpQLScLe5W7mxREX3ahryu-hwwWW5UMvJGIZAdplt_BpVaqNLhfAA/viewform?usp=pp_url">here</a> and fill out the form</p>
 
 
 <h5 style="font-family: 'Dosis', sans-serif; color:gray">How do I subscribe to the bullhorn?</h5>
