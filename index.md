@@ -3,7 +3,9 @@ layout: default
 ---
 
 <!-- Hero photo -->
+<div class="col m12 center-align">
 <img class="responsive-img" src="media/images/KITTENwide.jpg"></img>
+</div>
 
 <div class="col m12 center-align"  style="font-family: 'PT Sans', sans-serif; padding-left: 180px; padding-right: 180px; padding-top: 50px">
 <h4 style="font-family: 'PT Sans', sans-serif; font-style: bold; text-align: left; opacity: 0.5;" class="gray-text">Origin</h4>
