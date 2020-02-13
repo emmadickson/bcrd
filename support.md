@@ -51,7 +51,7 @@ layout: default
             <li style="font-family: 'Dosis', sans-serif; color:gray;">Your gift will provide us the opportunity to expand our youth engagement efforts throughout the community, with a focus on athletic leadership.</li>
             <li style="font-family: 'Dosis', sans-serif; color:gray;">Your gift will help us start saving towards long-term league goals, including establishing a dedicated space for practice, scrimmages, and home bouts.</li>
 
-            <p style="font-family: 'Dosis', sans-serif; color:gray;" id="volunteer" style="color:gray">In recognition of unique financial barriers that may impact women, POC, and/or LGBTQ+ business owners, BCRD is committed to discussing flexible sponsorship package rates that allow everyone to support the athletic community we are building.</p>
+            <p style="font-family: 'Dosis', sans-serif; color:gray;">In recognition of unique financial barriers that may impact women, POC, and/or LGBTQ+ business owners, BCRD is committed to discussing flexible sponsorship package rates that allow everyone to support the athletic community we are building.</p>
 
 
           <div class="divider"></div>
