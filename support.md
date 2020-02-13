@@ -8,14 +8,12 @@ layout: default
 
 
     <div class="col m12 left-align" >
-      <h2 id="sponsors" style="font-family: 'PT Sans', sans-serif; color:gray " class="gray-text">Support Us!</h2>
-      <div  class="divider"></div>
-        <div class="section">
-          <h4 style="font-family: 'Passion One', sans-serif; ">Bull City Roller Derby Sponsors</h4>
+          <div class="section">
+          <h4 style="font-family: 'PT Sans', sans-serif; ">Bull City Roller Derby Sponsors</h4>
           <div class="divider"></div>
           <br />
           <p>As a fully volunteer league, we are extremely grateful to the sponsors who make our training, travel, home bouts (July 2019!), and community involvement possible. Thanks to each of our sponsors for their support of inclusive athletic leadership in Durham.</p>
-          <h5 style="font-family: 'Passion One', sans-serif; color:black">Founding Sponsor</h5>
+          <h5 style="font-family: 'PT Sans', sans-serif; color:gray">Founding Sponsor</h5>
 
 
           <img style="width:100px; height:100px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg">
