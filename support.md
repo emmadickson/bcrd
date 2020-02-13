@@ -9,18 +9,18 @@ layout: default
 
     <div class="col m12 left-align" >
           <div class="section">
-          <h4 style="font-family: 'PT Sans', sans-serif; color:gray">Bull City Roller Derby Sponsors</h4>
+          <h4 style="color:gray">Bull City Roller Derby Sponsors</h4>
           <div class="divider"></div>
           <br />
           <p class="gray-text">As a fully volunteer league, we are extremely grateful to the sponsors who make our training, travel, home bouts (July 2019!), and community involvement possible. Thanks to each of our sponsors for their support of inclusive athletic leadership in Durham.</p>
-          <h5 style="font-family: 'PT Sans', sans-serif; color:gray">Founding Sponsor</h5>
+          <h5 style="color:gray">Founding Sponsor</h5>
 
 
           <img style="width:100px; height:100px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg">
           <li><a style="color:blue" href="https://www.facebook.com/HoneygirlMeadery/">Honeygirl Meadery</a></li>
 
 
-          <h5 style="font-family: 'PT Sans', sans-serif; color:gray">General Sponsors</h5>
+          <h5 style="color:gray">General Sponsors</h5>
           <li><a style="color:blue" href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a></li>
           <li><a style="color:blue" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></li>
 
@@ -30,7 +30,7 @@ layout: default
 
         <div class="divider" class="gray-text"></div>
         <div class="section">
-          <h4  sclass="gray-text" tyle="font-family: 'PT Sans', sans-serif; color:gray ">Bull City Roller Derby Sponsorship Opportunities</h4>
+          <h4  sclass="gray-text" style="color:gray ">Bull City Roller Derby Sponsorship Opportunities</h4>
           <div class="divider"></div>
           <br />
           <p class="gray-text" >Explore BCRD sponsorship packages <a style="color:blue" href="media/BCRD Sponsorship, info &amp; packages, 2019.pdf">here</a>.
@@ -38,7 +38,7 @@ layout: default
           <p class="gray-text">To discuss the right sponsorship package for your organization, email bullcityrollerderby@gmail.com.</p>
           <br />
         
-          <h5 class="gray-text" style="font-family: 'PT Sans', sans-serif; color:gray">What will your sponsorship of Bull City Roller Derby fund?</h5>
+          <h5 class="gray-text" style="color:gray">What will your sponsorship of Bull City Roller Derby fund?</h5>
             <li>Your gift will support inclusive athletic leadership in Durham.</li>
             <li>Your gift will enable us to welcome new skaters with bi-annual “booty camp” recruitment events and available gear.</li>
             <li>Your gift will help make uniforms accessible to all of our current and future teammates.</li>
@@ -47,12 +47,12 @@ layout: default
             <li>Your gift will provide us the opportunity to expand our youth engagement efforts throughout the community, with a focus on athletic leadership.</li>
             <li>Your gift will help us start saving towards long-term league goals, including establishing a dedicated space for practice, scrimmages, and home bouts.</li>
 
-            <p id="volunteer" style="font-family: 'PT Sans', sans-serif; color:gray">In recognition of unique financial barriers that may impact women, POC, and/or LGBTQ+ business owners, BCRD is committed to discussing flexible sponsorship package rates that allow everyone to support the athletic community we are building.</p>
+            <p id="volunteer" style="color:gray">In recognition of unique financial barriers that may impact women, POC, and/or LGBTQ+ business owners, BCRD is committed to discussing flexible sponsorship package rates that allow everyone to support the athletic community we are building.</p>
 
 
           <div class="divider"></div>
           <div class="section">
-          <h4  style="font-family: 'PT Sans', sans-serif; color:gray">Bull City Roller Derby Volunteers</h4>
+          <h4  style="color:gray">Bull City Roller Derby Volunteers</h4>
           <div class="divider"></div>
           <br />
           <p>Thank you to all of our amazing volunteers, for your support of BCRD!</p>
