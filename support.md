@@ -2,7 +2,7 @@
 layout: default
 ---
 
-  <div class="container" style="padding-left:50px; padding-right:50px;">
+  <div class="container gray-text" style="color: gray; padding-left:50px; padding-right:50px;">
 
 <div class="section">
 
