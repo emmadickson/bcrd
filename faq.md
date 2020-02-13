@@ -46,7 +46,7 @@ to our paypal at bullcityrollerderby@gmail.com.</p>
 <p style="color:#636363"> Yeah, it was pretty cool. We're way cooler.</p>
 
 <br>
-<h3 style="font-family: 'PT Sans', sans-serif; color:gray">I'm Already a Skater and I Have Logistical Questions!</h3>
+<h3 style="font-family: 'PT Sans', sans-serif; color:black">I'm Already a Skater and I Have Logistical Questions!</h3>
 
 <h5 style="font-family: 'PT Sans', sans-serif; color:gray">How do I fill out a membership form?</h5>
 <p style="color:#636363">Here</p>
