@@ -34,16 +34,18 @@ layout: default
         <div class="section">
         <h4 style="font-family: 'Dosis', sans-serif; font-style: bold; text-align: left; " class="gray-text">SPONSORS</h4>
         <br>
-        <h5 style="font-family: 'Dosis', sans-serif; text-align: center; color:gray">Founding Sponsor</h5>
-
-
         
-        <div class="center-align" > <a style="font-family: 'Dosis', sans-serif; color:blue" href="https://www.facebook.com/HoneygirlMeadery/"><img style="width:100px; height:100px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg"></a></div>
+        <h5 style="font-family: 'Dosis', sans-serif; text-align: center; color:gray">Founding Sponsor</h5>
+        <div class="center-align" > <a style="font-family: 'Dosis', sans-serif;" href="https://www.facebook.com/HoneygirlMeadery/"><img style="width:200px; height:200px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg"></a></div>
 
         <br>
-        <h5 style="font-family: 'Dosis', sans-serif;color:gray">General Sponsors</h5>
-        <li><a style="font-family: 'Dosis', sans-serif; color:blue" href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a></li>
-        <li><a style="font-family: 'Dosis', sans-serif; color:blue" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></li>
+        <h5 style="font-family: 'Dosis', sans-serif; text-align: center; color:gray">General Sponsors</h5>
+        <div class="col m6 left-align" >
+        <a style="font-family: 'Dosis', sans-serif; color:black" href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a>
+        </div>
+        <div class="col m6 right-align" >
+
+        <a style="font-family: 'Dosis', sans-serif; color:black" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></div>
 
         </div>
         </div>
