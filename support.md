@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-  <div style="font-family: 'Dosis', sans-serif; class="container gray-text" class="container">
+  <div  class="container">
   <div class="section">
   <div class="row">
 
