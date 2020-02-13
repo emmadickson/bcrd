@@ -19,7 +19,7 @@ layout: default
 
 
           <img style="width:100px; height:100px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg">
-          <a class="left-align" style="color:gray; font-family: 'Dosis', sans-serif;" class="blue-text" href="https://www.facebook.com/HoneygirlMeadery/">Honeygirl Meadery</a>
+          <p><a  style="color:gray; font-family: 'Dosis', sans-serif;" class="blue-text" href="https://www.facebook.com/HoneygirlMeadery/">Honeygirl Meadery</a></p>
 
 
           <h5 style="color:gray; font-family: 'Dosis', sans-serif;">General Sponsors</h5>
@@ -45,7 +45,7 @@ layout: default
           <h5 style="color:gray; font-family: 'Dosis', sans-serif; color:gray;">What will your sponsorship of Bull City Roller Derby fund?</h5>
             <li style="font-family: 'Dosis', sans-serif; color:gray;">Your gift will support inclusive athletic leadership in Durham.</li>
             <li style="font-family: 'Dosis', sans-serif; color:gray;" >Your gift will enable us to welcome new skaters with bi-annual “booty camp” recruitment events and available gear.</li>
-            <li style="font-family: 'Dosis', sans-serif;" >Your gift will help make uniforms accessible to all of our current and future teammates.</li>
+            <li style="font-family: 'Dosis', sans-serif; color:gray" >Your gift will help make uniforms accessible to all of our current and future teammates.</li>
             <li style="font-family: 'Dosis', sans-serif; color:gray;">Your gift will subsidize our away travel adventures.  With extra expenses of transportation, lodging, and meals, we need your support to take our Durham spirit out into the world.</li>
             <li style="font-family: 'Dosis', sans-serif; color:gray;"> Your gift will allow us to host public programs that promote inclusion and celebrate diversity in derby and the Durham community.</li>
             <li style="font-family: 'Dosis', sans-serif; color:gray;">Your gift will provide us the opportunity to expand our youth engagement efforts throughout the community, with a focus on athletic leadership.</li>
