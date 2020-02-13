@@ -40,14 +40,13 @@ layout: default
 
         <br>
         <h5 style="font-family: 'Dosis', sans-serif; text-align: center; color:gray">General Sponsors</h5>
-        <div class="col m6 left-align" >
-        <a style="font-family: 'Dosis', sans-serif; color:black" href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a>
-        </div>
-        <div class="col m6 right-align" >
 
-        <a style="font-family: 'Dosis', sans-serif; color:black" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></div>
-
+        <a class="left-align" style="font-family: 'Dosis', sans-serif; color:black " href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a>
         </div>
+        
+
+        <a class="right-align" style="font-family: 'Dosis', sans-serif; color:black" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></div>
+
         </div>
   </div>
   </div>
