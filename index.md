@@ -38,7 +38,7 @@ layout: default
 
 
         
-        <a style="font-family: 'Dosis', sans-serif; color:blue" href="https://www.facebook.com/HoneygirlMeadery/">Honeygirl Meadery<img style="width:100px; height:100px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg"></a>
+        <a class="center-align" style="font-family: 'Dosis', sans-serif; color:blue" href="https://www.facebook.com/HoneygirlMeadery/"><img style="width:100px; height:100px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg"></a>
 
         <br>
         <h6 style="font-family: 'Dosis', sans-serif;color:gray">General Sponsors</h6>
