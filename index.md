@@ -46,5 +46,9 @@ layout: default
         <p style="font-family: 'Dosis', sans-serif; text-align: center; ">
         <a class="center-align blue-text" style="font-family: 'Dosis', sans-serif; color:gray" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></p>
 
+		<p style="font-family: 'Dosis', sans-serif; text-align: center; ">
+		<a class="center-align blue-text" style="font-family: 'Dosis', sans-serif; color:gray" href="http://www.bruisedboutique.com/onlinestore/?fbclid=IwAR3FDutNglJ-tzjkulCYkNF5GzSQjfMMSma8entb_8ToCsXxEKOQdV5QISk">Bruised Boutique</a></p>
+
+
   </div>
   </div>
