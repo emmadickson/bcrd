@@ -37,9 +37,7 @@ layout: default
           <br />
           <p class="gray-text">To discuss the right sponsorship package for your organization, email bullcityrollerderby@gmail.com.</p>
           <br />
-          <p class="gray-text">BCRD will host it's FIRST EVER Durham home bout in July 2019!
-          Support this league accomplishment with an advertisement in the bout booklet, or contribute items to the bout day raffle. Raffle proceeds will be split between BCRD and a charitable partner. For information about bout day advertisements and raffle contributions, email bullcityrollerderby@gmail.com.</p>
-
+        
           <h5 class="gray-text" style="font-family: 'PT Sans', sans-serif; color:gray">What will your sponsorship of Bull City Roller Derby fund?</h5>
             <li>Your gift will support inclusive athletic leadership in Durham.</li>
             <li>Your gift will enable us to welcome new skaters with bi-annual “booty camp” recruitment events and available gear.</li>
