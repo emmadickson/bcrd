@@ -4,6 +4,7 @@ layout: default
 
 <!-- Hero photo -->
 <div class="col m12 center-align">
+<h2 style="font-family: 'Dosis', sans-serif; font-style: bold; text-align: left; " class="gray-text">BULL CITY ROLLER DERBY</h2>
 <img class="center responsive-img" src="media/images/header.jpg">
 </div>
 <div class="container" style="padding-left:50px; padding-right:50px;">
