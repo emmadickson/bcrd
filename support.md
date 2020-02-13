@@ -12,7 +12,7 @@ layout: default
           <h4 style="font-family: 'PT Sans', sans-serif; color:gray">Bull City Roller Derby Sponsors</h4>
           <div class="divider"></div>
           <br />
-          <p class="gray-text">As a fully volunteer league, we are extremely grateful to the sponsors who make our training, travel, home bouts (July 2019!), and community involvement possible. Thanks to each of our sponsors for their support of inclusive athletic leadership in Durham.</p>
+          <p class="gray-text class="gray-text">As a fully volunteer league, we are extremely grateful to the sponsors who make our training, travel, home bouts (July 2019!), and community involvement possible. Thanks to each of our sponsors for their support of inclusive athletic leadership in Durham.</p>
           <h5 style="font-family: 'PT Sans', sans-serif; color:gray">Founding Sponsor</h5>
 
 
@@ -25,7 +25,7 @@ layout: default
           <li><a style="color:blue" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></li>
 
 
-          <p class="gray-text" id="sponsorship" >For information about how to become a BCRD sponsor, read the information below and email bullcityrollerderby@gmail.com.</p>
+          <p class="gray-text class="gray-text" id="sponsorship" >For information about how to become a BCRD sponsor, read the information below and email bullcityrollerderby@gmail.com.</p>
         </div>
 
         <div class="divider" class="gray-text"></div>
@@ -33,11 +33,11 @@ layout: default
           <h4  sclass="gray-text" tyle="font-family: 'PT Sans', sans-serif; color:gray ">Bull City Roller Derby Sponsorship Opportunities</h4>
           <div class="divider"></div>
           <br />
-          <p class="gray-text" >Explore BCRD sponsorship packages <a style="color:blue" href="media/BCRD Sponsorship, info &amp; packages, 2019.pdf">here</a>.
+          <p class="gray-text class="gray-text" >Explore BCRD sponsorship packages <a style="color:blue" href="media/BCRD Sponsorship, info &amp; packages, 2019.pdf">here</a>.
           <br />
-          <p class="gray-text">To discuss the right sponsorship package for your organization, email bullcityrollerderby@gmail.com.</p>
+          <p class="gray-text class="gray-text">To discuss the right sponsorship package for your organization, email bullcityrollerderby@gmail.com.</p>
           <br />
-          <p class="gray-text">BCRD will host it's FIRST EVER Durham home bout in July 2019!
+          <p class="gray-text class="gray-text">BCRD will host it's FIRST EVER Durham home bout in July 2019!
           Support this league accomplishment with an advertisement in the bout booklet, or contribute items to the bout day raffle. Raffle proceeds will be split between BCRD and a charitable partner. For information about bout day advertisements and raffle contributions, email bullcityrollerderby@gmail.com.</p>
 
           <h5 class="gray-text" style="font-family: 'PT Sans', sans-serif; color:gray">What will your sponsorship of Bull City Roller Derby fund?</h5>
@@ -49,7 +49,7 @@ layout: default
             <li>Your gift will provide us the opportunity to expand our youth engagement efforts throughout the community, with a focus on athletic leadership.</li>
             <li>Your gift will help us start saving towards long-term league goals, including establishing a dedicated space for practice, scrimmages, and home bouts.</li>
 
-            <p id="volunteer" style="font-family: 'PT Sans', sans-serif; color:gray">In recognition of unique financial barriers that may impact women, POC, and/or LGBTQ+ business owners, BCRD is committed to discussing flexible sponsorship package rates that allow everyone to support the athletic community we are building.</p>
+            <p class="gray-text id="volunteer" style="font-family: 'PT Sans', sans-serif; color:gray">In recognition of unique financial barriers that may impact women, POC, and/or LGBTQ+ business owners, BCRD is committed to discussing flexible sponsorship package rates that allow everyone to support the athletic community we are building.</p>
 
 
           <div class="divider"></div>
@@ -57,11 +57,11 @@ layout: default
           <h4  style="font-family: 'PT Sans', sans-serif; color:gray">Bull City Roller Derby Volunteers</h4>
           <div class="divider"></div>
           <br />
-          <p>Thank you to all of our amazing volunteers, for your support of BCRD!</p>
+          <p class="gray-text>Thank you to all of our amazing volunteers, for your support of BCRD!</p>
           <br />
-          <p>If you love the idea of being part of what makes BCRD incredible, if you want to meet new folx, or if you want to support inclusive athletics in Durham, this is your thing!</p>
+          <p class="gray-text>If you love the idea of being part of what makes BCRD incredible, if you want to meet new folx, or if you want to support inclusive athletics in Durham, this is your thing!</p>
           <br />
-          <p>Want to be a BCRD volunteer? Email bullcityrollerderby@gmail.com to learn more.</p>
+          <p class="gray-text>Want to be a BCRD volunteer? Email bullcityrollerderby@gmail.com to learn more.</p>
           <br />
       
           <div class="divider"></div>
