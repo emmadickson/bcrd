@@ -3,9 +3,9 @@ layout: default
 ---
 
 <!-- Hero photo -->
-<div class='embed-container video-container'>
-<iframe style="padding-bottom: 15px; padding-top: 25px" src="https://player.vimeo.com/video/274908547?background=1&autoplay=1&loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-
+<div class="parallax-container">
+   <div class="parallax"><img src="media/images/KITTENwide.jpg"></div>
+ </div>
 
 <div class="col m12 center-align"  style="font-family: 'PT Sans', sans-serif; padding-left: 180px; padding-right: 180px; padding-top: 50px">
 <h4 style="font-family: 'PT Sans', sans-serif; font-style: bold; text-align: left; opacity: 0.5;" class="gray-text">Origin</h4>
