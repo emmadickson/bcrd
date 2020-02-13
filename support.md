@@ -17,12 +17,13 @@ layout: default
 
 
           <img style="width:100px; height:100px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg">
-          <li><a class="blue-text" href="https://www.facebook.com/HoneygirlMeadery/">Honeygirl Meadery</a></li>
+          <a class="blue-text" href="https://www.facebook.com/HoneygirlMeadery/">Honeygirl Meadery</a>
 
 
           <h5 style="color:gray">General Sponsors</h5>
-          <li><a style="font-family: 'Dosis', sans-serif;" class="gray-text"class="blue-text" href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a></li>
-          <li><a style="font-family: 'Dosis', sans-serif;" class="gray-text"class="blue-text" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></li>
+          <a style="font-family: 'Dosis', sans-serif;" class="blue-text" href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a>
+
+         <a style="font-family: 'Dosis', sans-serif;" class="blue-text" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a>
 
 
           <p style="font-family: 'Dosis', sans-serif;" class="gray-text"class="gray-text" id="sponsorship" >For information about how to become a BCRD sponsor, read the information below and email bullcityrollerderby@gmail.com.</p>
@@ -63,6 +64,4 @@ layout: default
           <br />
 
           <div class="divider"></div>
-          </div>
-          </div>
           </div>
