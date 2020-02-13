@@ -9,7 +9,7 @@ layout: default
 
     <div class="col m12 left-align" >
           <div class="section">
-          <h4 style="color:gray; font-family: 'Dosis', sans-serif;">BULL CITY ROLLER DERBY SPONSORS</h4>
+          <h4 style="color:black; font-family: 'Dosis', sans-serif;">BULL CITY ROLLER DERBY SPONSORS</h4>
           <div class="divider"></div>
           <br>
           <p style="font-family: 'Dosis', sans-serif; color:gray;" class="gray-text">As a fully volunteer league, we are extremely grateful to the sponsors who make our training, travel, home bouts (July 2019!), and community involvement possible. Thanks to each of our sponsors for their support of inclusive athletic leadership in Durham.</p>
@@ -34,7 +34,7 @@ layout: default
 
         <div class="divider" class="gray-text"></div>
         <div class="section">
-          <h4  style="color:gray; font-family: 'Dosis', sans-serif;">BULL CITY ROLLER DERBY SPONSORSHIP OPPORTUNITIES</h4>
+          <h4  style="color:black; font-family: 'Dosis', sans-serif;">BULL CITY ROLLER DERBY SPONSORSHIP OPPORTUNITIES</h4>
           <div class="divider"></div>
           <br />
           <p style="font-family: 'Dosis', sans-serif; color:gray;" class="gray-text" >Explore BCRD sponsorship packages <a class="blue-text" href="media/BCRD Sponsorship, info &amp; packages, 2019.pdf">here</a>.
@@ -56,7 +56,7 @@ layout: default
 
           <div class="divider"></div>
           <div class="section">
-          <h4  style="font-family: 'Dosis', sans-serif; color:gray">BULL CITY ROLLER DERBY VOLUNTEERS</h4>
+          <h4  style="font-family: 'Dosis', sans-serif; color:black">BULL CITY ROLLER DERBY VOLUNTEERS</h4>
           <div class="divider"></div>
           <p style="font-family: 'Dosis', sans-serif; color:gray;">Thank you to all of our amazing volunteers, for your support of BCRD!</p>
           <p style="font-family: 'Dosis', sans-serif; color:gray;">If you love the idea of being part of what makes BCRD incredible, if you want to meet new folx, or if you want to support inclusive athletics in Durham, this is your thing!</p>
