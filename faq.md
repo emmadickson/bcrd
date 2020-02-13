@@ -19,12 +19,8 @@ layout: default
 <p style="color:gray; font-family:'Dosis', sans-serif;">There is no ball.</p>
 
 <h5 style="font-family: 'Dosis', sans-serif; color:gray" > What if I don't know how to skate?</h5>
-<p style="color:gray; font-family:'Dosis', sans-serif;"> That's okay! A lot of our current skaters only started skating this year. We hold twice-yearly
-Booty Camps where you can come, try out skating for the first time, and learn some of the
-basic skills that you need to join our league as a Skater Tot. Our skaters also love to go to
-Wheels Fun Park on Wednesdays for their Cheap Skate night (only $3!). It’s a great place
-to meet people in the league and get more confident on your skates. Follow us on
-Facebook to learn when our next Booty Camp will be held.</p>
+<p style="color:gray; font-family:'Dosis', sans-serif;"> That's okay! A lot of our current skaters only started skating this year. We hold New Skater Saturdays the last Saturday of every month where you can come, try out skating for the first time, and learn some of the
+basic skills that you need to join our league as a Skater Tot.</p>
 
 <h5 style="font-family: 'Dosis', sans-serif; color:gray" > What do I need to get started?</h5>
 <p style="color:gray; font-family:'Dosis', sans-serif;"> If you're skating at one of our practices, you must also wearing knee pads, wrist guards, elbow pads, a mouth guard and a helmet in addition to your skates.
