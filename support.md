@@ -19,7 +19,7 @@ layout: default
 
 
           <img style="width:100px; height:100px" src="{{site.baseurl}}/media/images/Honeygirl logo.jpg">
-          <a class="center-align" style="color:gray; font-family: 'Dosis', sans-serif;" class="blue-text" href="https://www.facebook.com/HoneygirlMeadery/">Honeygirl Meadery</a>
+          <a class="left-align" style="color:gray; font-family: 'Dosis', sans-serif;" class="blue-text" href="https://www.facebook.com/HoneygirlMeadery/">Honeygirl Meadery</a>
 
 
           <h5 style="color:gray; font-family: 'Dosis', sans-serif;">General Sponsors</h5>
@@ -29,7 +29,7 @@ layout: default
          <p><a style="font-family: 'Dosis', sans-serif;" class="blue-text" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></p>
 
 
-          <p style="font-family: 'Dosis', sans-serif;" class="gray-text"class="gray-text" id="sponsorship" >For information about how to become a BCRD sponsor, read the information below and email bullcityrollerderby@gmail.com.</p>
+          <p style="font-family: 'Dosis', sans-serif;" class="gray-text"  >For information about how to become a BCRD sponsor, read the information below and email bullcityrollerderby@gmail.com.</p>
         </div>
 
         <div class="divider" class="gray-text"></div>
@@ -56,15 +56,11 @@ layout: default
 
           <div class="divider"></div>
           <div class="section">
-          <h4  style="color:gray">BULL CITY ROLLER DERBY VOLUNTEERS</h4>
+          <h4  style="font-family: 'Dosis', sans-serif; color:gray">BULL CITY ROLLER DERBY VOLUNTEERS</h4>
           <div class="divider"></div>
-          <br />
           <p style="font-family: 'Dosis', sans-serif;">Thank you to all of our amazing volunteers, for your support of BCRD!</p>
-          <br />
           <p style="font-family: 'Dosis', sans-serif;">If you love the idea of being part of what makes BCRD incredible, if you want to meet new folx, or if you want to support inclusive athletics in Durham, this is your thing!</p>
-          <br />
           <p style="font-family: 'Dosis', sans-serif;">Want to be a BCRD volunteer? Email bullcityrollerderby@gmail.com to learn more.</p>
-          <br />
 
           <div class="divider"></div>
           </div>
