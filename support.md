@@ -29,7 +29,8 @@ layout: default
          <p><a style="font-family: 'Dosis', sans-serif;" class="blue-text" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></p>
 
          <p style="font-family: 'Dosis', sans-serif;">
-         <a class="blue-text" style="font-family: 'Dosis', sans-serif; " href="http://www.bruisedboutique.com/onlinestore/?fbclid=IwAR3FDutNglJ-tzjkulCYkNF5GzSQjfMMSma8entb_8ToCsXxEKOQdV5QISk">Bruised Boutique</a></p>
+         <a class="center-align blue-text" style="font-family: 'Dosis', sans-serif; color:gray" href="http://www.bruisedboutique.com/onlinestore/?fbclid=IwAR3FDutNglJ-tzjkulCYkNF5GzSQjfMMSma8entb_8ToCsXxEKOQdV5QISk"><img style="width:200px; height:200px" src="{{site.baseurl}}/media/images/BruisedBoutique_Logo_Scoreboard.jpg"></a></p>
+
 
 
           <p style="font-family: 'Dosis', sans-serif; color:gray;" class="gray-text"  >For information about how to become a BCRD sponsor, read the information below and email bullcityrollerderby@gmail.com.</p>
