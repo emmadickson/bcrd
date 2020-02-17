@@ -29,7 +29,7 @@ layout: default
          <p><a style="font-family: 'Dosis', sans-serif;" class="blue-text" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></p>
 
          <p style="font-family: 'Dosis', sans-serif;">
-         <a class="center-align blue-text" style="font-family: 'Dosis', sans-serif; color:gray" href="http://www.bruisedboutique.com/onlinestore/?fbclid=IwAR3FDutNglJ-tzjkulCYkNF5GzSQjfMMSma8entb_8ToCsXxEKOQdV5QISk"><img style="width:200px; height:50px" src="{{site.baseurl}}/media/images/BruisedBoutique_Logo_Scoreboard.jpg"></a></p>
+         <a class="center-align blue-text" style="font-family: 'Dosis', sans-serif; color:gray" href="http://www.bruisedboutique.com/onlinestore/?fbclid=IwAR3FDutNglJ-tzjkulCYkNF5GzSQjfMMSma8entb_8ToCsXxEKOQdV5QISk"><img style="width:200px; height:50px" src="{{site.baseurl}}/media/images/BruisedBoutique_Logo_Scoreboard.jpg">Bruised Boutique</a></p>
 
 
 
@@ -41,7 +41,7 @@ layout: default
           <h4  style="color:black; font-family: 'Dosis', sans-serif;">BULL CITY ROLLER DERBY SPONSORSHIP OPPORTUNITIES</h4>
           <div class="divider"></div>
           <br />
-          <p style="font-family: 'Dosis', sans-serif; color:gray;" class="gray-text" >Explore BCRD sponsorship packages <a class="blue-text" href="media/BCRD Sponsorship, info &amp; packages, 2019.pdf">here</a>.
+          <p style="font-family: 'Dosis', sans-serif; color:gray;" class="gray-text" >Explore BCRD sponsorship packages <a class="blue-text" href="media/BCRD Sponsorship, info &amp; packages, 2020.pdf">here</a>.
           <br />
           <p style="color:gray; font-family: 'Dosis', sans-serif; color:gray;">To discuss the right sponsorship package for your organization, email bullcityrollerderby@gmail.com.</p>
           <br />
