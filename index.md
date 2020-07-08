@@ -28,7 +28,7 @@ layout: default
         <h4 style="font-family: 'Dosis', sans-serif; font-style: bold; text-align: left; " class="gray-text">JOIN US!</h4>
         <p style="font-family: 'Dosis', sans-serif; color:gray; font-size:16px; line-height: 150%;  text-align: left;">
         We're the first Durham-based roller derby league and we want you! We're open to all women-identified, nonbinary, and gender non-conforming folx
-          who want to skate fast, hit hard and get down and derby. Email bullcityrollerderby@gmail.com for more info and/or read our recruitment packet <a class="blue-text" href="media/Recruitment- Welcome Document.pdf">here</a>.</p>
+          who want to skate fast, hit hard and get down and derby. Email bullcityrollerderby@gmail.com for more info and/or read our recruitment info <a class="blue-text" href="recruitment.html">here</a>.</p>
           </div>
   </div>
   <div class="col m12 left-align" >

@@ -6,149 +6,161 @@
   <title>BCRD Wants You!</title>
   <link rel="shortcut icon" href="media/images/eye.png" type="image/x-icon">
   <link rel="icon" href="media/images/eye.png" type="image/x-icon">
-  
+  <style>
+    body{
+      background-color: white;
+      overflow-x: hidden;
+      font-family: font-family: 'Dosis', sans-serif;
+      }
+    navbar-fixed nav {
+      position: relative !important;
+    }
+    .z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav {
+     -webkit-box-shadow: none !important;
+     box-shadow: none !important;
+     }
+     a{
+       color:blue !important
+     }
+  </style>
+  <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link href="https://fonts.googleapis.com/css?family=Passion+One" rel="stylesheet">
-</head>
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
+
+  </head>
 <body>
-<!-- Dropdown Structure -->
-<ul id="dropdown1" class="dropdown-content">
-  <li><a href="support.html#sponsors">Sponsors</a></li>
-  <li class="divider"></li>
-  <li><a href="support.html#sponsorship">Sponsorship</a></li>
-  <li class="divider"></li>
-  <li><a href="support.html#volunteer">Volunteer</a></li>
-</ul>
 
   <!-- Top Nav Bar -->
   <div class="navbar-fixed">
-    <nav class="navbar" role="navigation" style="color:white; background: black">
-      <div class="nav-wrapper container"><a id="logo-container" href="index.html"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/header_eye.png"></img></a>
-        <ul class="right hide-on-med-and-down">
-          <li><a class="white-text" href="about.html">About BCRD</a></li>
-          <li><a class="white-text" href="skaters.html">Skaters</a></li>
-          <li><a class="white-text" href="faq.html">FAQ</a></li>
-          <li><a class="white-text" href="https://bcrd.threadless.com/">Merch</a></li>
-          <li><a class="white-text" href="events.html">Events</a></li>
-          <li><a class="dropdown-button white-text" href="#!" data-activates="dropdown1">Support<i class="material-icons right">arrow_drop_down</i></a></li>
-          <!-- Dropdown Trigger -->
-          <li><a class="white-text" href="mailto:bullcityrollerderby@gmail.com">Contact Us</a></li>
-          <li><a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a><li>
-          <li><a href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a><li>
+    <nav class="navbar" role="navigation" style="color:#78909c; background: white">
+      <div class="nav-wrapper container">
+        <a href="index.html" class="brand-logo"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/eye.png"></img></a>
+        <ul class="right hide-on-med-and-down" style="font-family: 'Dosis', sans-serif;">
+          <li><a class="gray-text" href="faq.html">FAQ</a></li>
+          <li><a class="gray-text" href="recruitment.html">RECRUITMENT</a></li>
+          <li><a class="gray-text" href="https://bcrd.threadless.com/">MERCH</a></li>
+          <li><a class="gray-text" href="support.html" data-activates="dropdown1">SUPPORT US</a></li>
+          <li><a class="gray-text" href="mailto:bullcityrollerderby@gmail.com">CONTACT US</a></li>
+          <li><a class="gray-text" href="https://instagram.com/bullcityrollerderby/" target="_blank"><i style="color: gray" id="icon" class="fa fa-instagram"></i></a><li>
+          <li><a class="gray-text" href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i style="color: gray" id="icon"  class="fa fa-facebook-square"></i></a><li>
         </ul>
-        <a href="#" data-activates="nav-mobile" class="button-collapse white-text"><i class="material-icons">menu</i></a>
+        <a href="#" data-activates="nav-mobile" class="button-collapse gray-text"><i class="material-icons">menu</i></a>
       </div>
     </nav>
-    </ul>
   </div>
 
   <!-- Mobile Nav Bar-->
-  <ul id="nav-mobile" class="side-nav" style="color:white; background: black">
-    <li><a href="index.html"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/header_eye.png"></img></a></li>
-    <li><a class="white-text" href="about.html">About BCRD</a></li>
-    <li><a class="white-text" href="skaters.html">Skaters</a></li>
-    <li><a class="white-text" href="faq.html">FAQ</a></li>
-    <li><a class="white-text" href="https://bcrd.threadless.com/">Merch</a></li>
-    <li><a class="white-text" href="events.html">Events</a></li>
-    <li><a class="white-text" href="support.html">Support</a></li>
-    <li><a class="white-text" href="mailto:bullcityrollerderby@gmail.com">Contact Us</a></li>
-    <li><a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a><li>
-    <li><a href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a><li>
+  <ul id="nav-mobile" class="side-nav" style="color:gray; background: white; font-family: 'Dosis', sans-serif;">
+    <li><a href="index.html"><img style="padding: 5px" height=50 width=70 class="
+      circle responsive-img" src="media/images/eye.png"></img></a></li>
+    <li><a class="gray-text" href="faq.html">FAQ</a></li>
+    <li><a class="gray-text" href="recruitment.html">RECRUITMENT</a></li>
+    <li><a class="gray-text" href="https://bcrd.threadless.com/">MERCH</a></li>
+    <li><a class="gray-text" href="support.html">SUPPORT US</a></li>
+    <li><a class="gray-text" href="mailto:bullcityrollerderby@gmail.com">CONTACT US</a></li>
+    <li><a class="gray-text" href="https://instagram.com/bullcityrollerderby/" target="_blank"><i style="color: gray" id="icon" class="fa fa-instagram"></i></a><li>
+    <li><a class="gray-text" href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i style="color: gray" id="icon"  class="fa fa-facebook-square"></i></a><li>
   </ul>
 
   <div class="container">
 <div class="section">
 <div class="row">
-<div class="col s12 left-align"><h2 style="font-family: 'Passion One', sans-serif; " class="black-text"> FAQ </h2></div>
+
+<div class="col s12 left-align">
+<h4 style="font-family: 'Dosis', sans-serif; color:black"> NEW SKATERS </h4></div>
+<div class="divider"></div>
 
 <div class="col s12 left ">
 
-<h5 style="font-family: 'Passion One', sans-serif;" class="black-text"> How do I get in touch with y'all?</h5>
-<p style="color:#636363"> Shoot us an email at bullcityrollerderby@gmail.com or like our <a href="https://www.facebook.com/groups/828934163853486/">facebook group.</a> </p>
+<h5 style="font-family: 'Dosis', sans-serif; color:gray"> How do I get in touch with y'all?</h5>
+<p style="font-family: 'Dosis', sans-serif; color:gray"> Shoot us an email at bullcityrollerderby@gmail.com or like our <a class="blue-text" href="https://www.facebook.com/groups/828934163853486/">facebook group.</a> </p>
 
-<h5 style="font-family: 'Passion One', sans-serif;" class="black-text"> So is there, like, a ball?</h5>
-<p style="color:#636363">There is no ball.</p>
+<h5 style="font-family: 'Dosis', sans-serif;; color:gray"> So is there, like, a ball?</h5>
+<p style="color:gray; font-family:'Dosis', sans-serif;">There is no ball.</p>
 
-<h5 style="font-family: 'Passion One', sans-serif; " class="black-text"> What if I don't know how to skate?</h5>
-<p style="color:#636363"> That's okay! A lot of our current skaters only started skating this year. We hold twice-yearly
-Booty Camps where you can come, try out skating for the first time, and learn some of the
-basic skills that you need to join our league as a Skater Tot. Our skaters also love to go to
-Wheels Fun Park on Wednesdays for their Cheap Skate night (only $3!). It’s a great place
-to meet people in the league and get more confident on your skates. Follow us on
-Facebook to learn when our next Booty Camp will be held.</p>
+<h5 style="font-family: 'Dosis', sans-serif; color:gray"> What if I don't know how to skate?</h5>
+<p style="color:gray; font-family:'Dosis', sans-serif;"> That's okay! A lot of our current skaters only started skating this year. We hold New Skater Saturdays the last Saturday of every month where you can come, try out skating for the first time, and learn some of the
+basic skills that you need to join our league as a Skater Tot.</p>
 
-<h5 style="font-family: 'Passion One', sans-serif; " class="black-text"> What do I need to get started?</h5>
-<p style="color:#636363"> If you're skating at one of our practices, you must also wearing knee pads, wrist guards, elbow pads, a mouth guard and a helmet in addition to your skates.
+<h5 style="font-family: 'Dosis', sans-serif; color:gray"> What do I need to get started?</h5>
+<p style="color:gray; font-family:'Dosis', sans-serif;"> If you're skating at one of our practices, you must also wearing knee pads, wrist guards, elbow pads, a mouth guard and a helmet in addition to your skates.
 Roller derby is a full contact sport and, although we try to play safe, injuries can and will happen.</p>
 
-<h5 style="font-family: 'Passion One', sans-serif; " class="black-text">Do I need my own equipment to join?</h5>
-<p style="color:#636363"> Buying skate gear can be a daunting and expensive venture, so it is completely understandable if you do not want to immediately launch into it.
+<h5 style="font-family: 'Dosis', sans-serif; color:gray">Do I need my own equipment to join?</h5>
+<p style="color:gray; font-family:'Dosis', sans-serif;"> Buying skate gear can be a daunting and expensive venture, so it is completely understandable if you do not want to immediately launch into it.
 While you’ll probably want to get your own gear if you plan to keep skating with us, Wheels has skates available for Skater Tots who are still getting a feel for the sport and BCRD has sets of pads and helmets
 available for loan. We’re also happy to talk to you about the best places to get gear locally
 and how to put together a full set of equipment on the cheap.</p>
 
-<h5 style="font-family: 'Passion One', sans-serif; " class="black-text">Y’all are so cool but full-contact roller skating just isn’t for me. How else can I help?</h5>
-<p style="color:#636363">You’re our favorite person! A roller derby league is so much more than just its skaters:
+<h5 style="font-family: 'Dosis', sans-serif; color:gray">Y’all are so cool but full-contact roller skating just isn’t for me. How else can I help?</h5>
+<p style="color:gray; font-family:'Dosis', sans-serif;">You’re our favorite person! A roller derby league is so much more than just its skaters:
 any form of help is welcome. We need Refs, NSOs (None Skating Officials),
 announcers, and just general volunteers to helping with fundraising and out reach. If you
 used to play derby but feel like your bouting days are done, ask us about getting involved
 with training and coaching. Any little bit helps. If you're feeling especially generous, donate
 to our paypal at bullcityrollerderby@gmail.com.</p>
 
-<h5 style="font-family: 'Passion One', sans-serif; " class="black-text">Did you see that one movie "Whip It"?</h5>
-<p style="color:#636363"> Yeah, it was pretty cool. We're way cooler.</p>
-<br>
-<h3 style="font-family: 'Passion One', sans-serif; " class="black-text">I'm Already a Skater and I Have Logistical Questions!</h3>
+<h5 style="font-family: 'Dosis', sans-serif; color:gray">Did you see that one movie "Whip It"?</h5>
+<p style="color:gray; font-family:'Dosis', sans-serif;"> Yeah, it was pretty cool. We're way cooler.</p>
 
-<h5 style="font-family: 'Passion One', sans-serif; " class="black-text">How do I fill out a membership form?</h5>
-<p style="color:#636363"> Go here!</p>
+<br />
+<h4 style="font-family: 'Dosis', sans-serif; color:black">EXISTING SKATERS</h4>
+<div class="divider"></div>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLe5W7mxREX3ahryu-hwwWW5UMvJGIZAdplt_BpVaqNLhfAA/viewform?embedded=true" width="640" height="2317" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-<h5 style="font-family: 'Passion One', sans-serif; " class="black-text">How do I pay dues?</h5>
-<p style="color:#636363">Paypall bullcityrollerderby@gmail.com $15</p>
+<h5 style="font-family: 'Dosis', sans-serif; color:gray">How do I fill out a membership form?</h5>
+<p style="color:gray; font-family:'Dosis', sans-serif;">Click <a class="blue-text " href="https://docs.google.com/forms/d/e/1FAIpQLScLe5W7mxREX3ahryu-hwwWW5UMvJGIZAdplt_BpVaqNLhfAA/viewform?usp=pp_url">here</a> and fill out the form</p>
 
+
+<h5 style="font-family: 'Dosis', sans-serif; color:gray">How do I subscribe to the bullhorn?</h5>
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://bullcityrollerderby.us15.list-manage.com/subscribe/post?u=4b1b3ff5bf4c6154766e429f7&amp;id=87ac8aa7a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" />
 </div>
-</div>
-</div>
-</div>
-
-
-
-  <footer class="page-footer" style="background: black">
-    <div class="container">
-      <div class="row">
-        <div class="col s10 m10">
-          <h5 class="white-text" style="font-family: 'Passion One'">SKATE FAST EAT TRASH!</h5>
-          <h7 class="white-text">Founding sponsor <a style='color:white' href='http://honeygirlmeadery.com'>Honeygirl Meadery</a></h5>
-
-        </div>
-        <div class="col s10 m2">
-          <a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a>
-          <a href="https://www.facebook.com/groups/828934163853486/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a>
-        </div>
-      </div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4b1b3ff5bf4c6154766e429f7_87ac8aa7a5" tabindex="-1" value="" /></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" /></div>
     </div>
-    <div class="footer-copyright" style="background: black">
-      <div class="container">
-            Copyright BCRD 2017
-      </div>
-    </div>
-  </footer>
+</form>
+</div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[4]='MMERGE4';ftypes[4]='text';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+</div>
+</div>
+</div>
+</div>
+
 
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
-  <script src="js/tiles.js"></script>
   <script>
   $( document ).ready(function() {
     console.log( "ready!" );
     $(".dropdown-button").dropdown({ hover: false });
-});
-  </script>
+  });
+</script>
+
   </body>
 </html>

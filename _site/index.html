@@ -9,7 +9,19 @@
   <style>
     body{
       background-color: white;
+      overflow-x: hidden;
+      font-family: font-family: 'Dosis', sans-serif;
       }
+    navbar-fixed nav {
+      position: relative !important;
+    }
+    .z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav {
+     -webkit-box-shadow: none !important;
+     box-shadow: none !important;
+     }
+     a{
+       color:blue !important
+     }
   </style>
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -17,103 +29,107 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=PT+Sans&display=swap" rel="stylesheet">
-</head>
+  <link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
+
+  </head>
 <body>
-<!-- Dropdown Structure -->
-<ul id="dropdown1" class="dropdown-content">
-  <li><a href="support.html#sponsors">Sponsors</a></li>
-  <li class="divider"></li>
-  <li><a href="support.html#sponsorship">Sponsorship</a></li>
-  <li class="divider"></li>
-  <li><a href="support.html#volunteer">Volunteer</a></li>
-</ul>
 
   <!-- Top Nav Bar -->
   <div class="navbar-fixed">
-    <nav class="navbar" role="navigation" style="color:white; background: black">
-      <div class="nav-wrapper container"><a id="logo-container" href="index.html"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/header_eye.png"></img></a>
-        <ul class="right hide-on-med-and-down">
-          <li><a class="white-text" href="about.html">About BCRD</a></li>
-          <li><a class="white-text" href="skaters.html">Skaters</a></li>
-          <li><a class="white-text" href="faq.html">FAQ</a></li>
-          <li><a class="white-text" href="https://bcrd.threadless.com/">Merch</a></li>
-          <li><a class="white-text" href="events.html">Events</a></li>
-          <li><a class="dropdown-button white-text" href="#!" data-activates="dropdown1">Support<i class="material-icons right">arrow_drop_down</i></a></li>
-          <!-- Dropdown Trigger -->
-          <li><a class="white-text" href="mailto:bullcityrollerderby@gmail.com">Contact Us</a></li>
-          <li><a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a><li>
-          <li><a href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a><li>
+    <nav class="navbar" role="navigation" style="color:#78909c; background: white">
+      <div class="nav-wrapper container">
+        <a href="index.html" class="brand-logo"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/eye.png"></img></a>
+        <ul class="right hide-on-med-and-down" style="font-family: 'Dosis', sans-serif;">
+          <li><a class="gray-text" href="faq.html">FAQ</a></li>
+          <li><a class="gray-text" href="recruitment.html">RECRUITMENT</a></li>
+          <li><a class="gray-text" href="https://bcrd.threadless.com/">MERCH</a></li>
+          <li><a class="gray-text" href="support.html" data-activates="dropdown1">SUPPORT US</a></li>
+          <li><a class="gray-text" href="mailto:bullcityrollerderby@gmail.com">CONTACT US</a></li>
+          <li><a class="gray-text" href="https://instagram.com/bullcityrollerderby/" target="_blank"><i style="color: gray" id="icon" class="fa fa-instagram"></i></a><li>
+          <li><a class="gray-text" href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i style="color: gray" id="icon"  class="fa fa-facebook-square"></i></a><li>
         </ul>
-        <a href="#" data-activates="nav-mobile" class="button-collapse white-text"><i class="material-icons">menu</i></a>
+        <a href="#" data-activates="nav-mobile" class="button-collapse gray-text"><i class="material-icons">menu</i></a>
       </div>
     </nav>
-    </ul>
   </div>
 
   <!-- Mobile Nav Bar-->
-  <ul id="nav-mobile" class="side-nav" style="color:white; background: black">
-    <li><a href="index.html"><img style="padding: 5px" height=50 width=70 class="circle responsive-img" src="media/images/header_eye.png"></img></a></li>
-    <li><a class="white-text" href="about.html">About BCRD</a></li>
-    <li><a class="white-text" href="skaters.html">Skaters</a></li>
-    <li><a class="white-text" href="faq.html">FAQ</a></li>
-    <li><a class="white-text" href="https://bcrd.threadless.com/">Merch</a></li>
-    <li><a class="white-text" href="events.html">Events</a></li>
-    <li><a class="white-text" href="support.html">Support</a></li>
-    <li><a class="white-text" href="mailto:bullcityrollerderby@gmail.com">Contact Us</a></li>
-    <li><a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a><li>
-    <li><a href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a><li>
+  <ul id="nav-mobile" class="side-nav" style="color:gray; background: white; font-family: 'Dosis', sans-serif;">
+    <li><a href="index.html"><img style="padding: 5px" height=50 width=70 class="
+      circle responsive-img" src="media/images/eye.png"></img></a></li>
+    <li><a class="gray-text" href="faq.html">FAQ</a></li>
+    <li><a class="gray-text" href="recruitment.html">RECRUITMENT</a></li>
+    <li><a class="gray-text" href="https://bcrd.threadless.com/">MERCH</a></li>
+    <li><a class="gray-text" href="support.html">SUPPORT US</a></li>
+    <li><a class="gray-text" href="mailto:bullcityrollerderby@gmail.com">CONTACT US</a></li>
+    <li><a class="gray-text" href="https://instagram.com/bullcityrollerderby/" target="_blank"><i style="color: gray" id="icon" class="fa fa-instagram"></i></a><li>
+    <li><a class="gray-text" href="https://www.facebook.com/bullcityrollerderby/" target="_blank"><i style="color: gray" id="icon"  class="fa fa-facebook-square"></i></a><li>
   </ul>
 
   <!-- Hero photo -->
-<div class="embed-container video-container">
-<iframe src="https://player.vimeo.com/video/274908547?background=1&amp;autoplay=1&amp;loop=1" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>
-
-<div style="margin:0; min-height:300px;" class="row">
-<div class="col m6 left-align" style="margin:0; padding:0; border:0; min-height:100px; max-height:400px"><img class="responsive-img" style="max-width:200%; max-height:400px;;" src="media/images/map_light.png" /></div>
-<div class="col m6 right-align">
-<h4 style="font-family: 'Passion One', sans-serif; text-align: left; padding-top: 50px; padding-left: 75px;" class="black-text">Durham's Own League</h4>
-<h6 style="color:black; font-size:18px; line-height: 150%; padding-left: 50px; text-align: left; padding-right: 50px;">We're here! A lot of us are queer, and we want you to join us. BCRD was
-founded in 2015 by a couple of skaters who thought that a community as vibrant as Durham deserved its own roller derby league. Since then, we’ve grown from five skaters doing laps
-in the back of the Ponysaurus warehouse to a group of over thirty skaters who practice,
-scrimmage, and bout together – and we’re growing all the time!
-</h6>
+<div class="col m12 center-align">
+<h1 style="font-family: 'Dosis', sans-serif; font-style: bold; text-align: center; " class="gray-text">BULL CITY ROLLER DERBY</h1><br />
+<img class="center responsive-img" src="media/images/header.jpg" />
 </div>
-</div>
+<div class="container" style="padding-left:50px; padding-right:50px;">
+
+<div class="section">
 
 
-
-  <footer class="page-footer" style="background: black">
-    <div class="container">
-      <div class="row">
-        <div class="col s10 m10">
-          <h5 class="white-text" style="font-family: 'Passion One'">SKATE FAST EAT TRASH!</h5>
-          <h7 class="white-text">Founding sponsor <a style='color:white' href='http://honeygirlmeadery.com'>Honeygirl Meadery</a></h5>
-
+  <div class="col m12 left-align">
+        <div class="section">
+        <h4 style="font-family: 'Dosis', sans-serif; font-style: bold; text-align: left; " class="gray-text">WHO WE ARE</h4>
+        <p style="font-family: 'Dosis', sans-serif; color:gray; font-size:16px; line-height: 150%;  text-align: left; ">We're here! A lot of us are queer, and we want you to join us. BCRD was
+        founded in 2015 by a couple of skaters who thought that a community as vibrant as Durham deserved its own roller derby league. Since then, we’ve grown from five skaters doing laps
+        in the back of the Ponysaurus warehouse to a group of over thirty skaters who practice,
+        scrimmage, and bout together – and we’re growing all the time!
+        </p>
         </div>
-        <div class="col s10 m2">
-          <a href="https://instagram.com/bullcityrollerderby/" target="_blank"><i id="icon" class="fa fa-instagram"></i></a>
-          <a href="https://www.facebook.com/groups/828934163853486/" target="_blank"><i id="icon"  class="fa fa-facebook-square"></i></a>
-        </div>
-      </div>
-    </div>
-    <div class="footer-copyright" style="background: black">
-      <div class="container">
-            Copyright BCRD 2017
-      </div>
-    </div>
-  </footer>
+
+        <br />
+        <div class="section">
+
+        <h4 style="font-family: 'Dosis', sans-serif; font-style: bold; text-align: left; " class="gray-text">JOIN US!</h4>
+        <p style="font-family: 'Dosis', sans-serif; color:gray; font-size:16px; line-height: 150%;  text-align: left;">
+        We're the first Durham-based roller derby league and we want you! We're open to all women-identified, nonbinary, and gender non-conforming folx
+          who want to skate fast, hit hard and get down and derby. Email bullcityrollerderby@gmail.com for more info and/or read our recruitment info <a class="blue-text" href="recruitment.html">here</a>.</p>
+          </div>
+  </div>
+  <div class="col m12 left-align">
+        <div class="section">
+        <h4 style="font-family: 'Dosis', sans-serif; font-style: bold; text-align: left; " class="gray-text">SPONSORS</h4>
+        <br />
+
+        <h5 style="font-family: 'Dosis', sans-serif; text-align: center; color:gray">Founding Sponsor</h5>
+        <div class="center-align"> <a style="font-family: 'Dosis', sans-serif;" href="https://www.facebook.com/HoneygirlMeadery/"><img style="width:200px; height:200px" src="/media/images/Honeygirl logo.jpg" /></a></div>
+
+        <br />
+        <h5 style="font-family: 'Dosis', sans-serif; text-align: center; color:gray">General Sponsors</h5>
+
+        <p style="font-family: 'Dosis', sans-serif; text-align: center;"><a class="center-align blue-text" style="font-family: 'Dosis', sans-serif; color:gray " href="https://www.sofiaspizzadurham.com/">Sofia's Pizza</a></p>
+        <p style="font-family: 'Dosis', sans-serif; text-align: center; ">
+        <a class="center-align blue-text" style="font-family: 'Dosis', sans-serif; color:gray" href="https://www.graysquirrelcoffee.com/">Gray Squirrel Coffee Co</a></p>
+
+		<p style="font-family: 'Dosis', sans-serif; text-align: center; ">
+		<a class="center-align blue-text" style="font-family: 'Dosis', sans-serif; color:gray" href="http://www.bruisedboutique.com/onlinestore/?fbclid=IwAR3FDutNglJ-tzjkulCYkNF5GzSQjfMMSma8entb_8ToCsXxEKOQdV5QISk"><img style="width:200px; height:50px" src="/media/images/BruisedBoutique_Logo_Scoreboard.jpg" /></a></p>
+
+
+  </div>
+  </div>
+</div></div>
+
 
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
-  <script src="js/tiles.js"></script>
   <script>
   $( document ).ready(function() {
     console.log( "ready!" );
     $(".dropdown-button").dropdown({ hover: false });
-});
-  </script>
+  });
+</script>
+
   </body>
 </html>
